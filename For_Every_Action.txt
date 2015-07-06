@@ -1,39 +1,54 @@
-As Captain Thomas Mackenzie sat alone on the ship's bridge and looked
-out at the endless night, he thought about his long journey from a
-rural village to the captain's bridge of a Federal Mining Explorer.
-While he had not risen to as high a rank as others in his graduating
-class at the academy, he had far surpassed the expectations for a boy
-from a poor family with no political connections. His boyhood friends
-all remained Earth-bound in jobs that rarely took them more than a few
-miles from their homes.
+As Captain Thomas Mackenzie sat alone on the ship's bridge and looked out
+at the endless night, he thought about his journey from a boy in a rural
+village to the captain of a Federal Mining Explorer.  While he had not
+risen to as high a rank as others in his graduating class at the academy,
+he had far surpassed the expectations for a boy from a poor family with no
+political connections. His boyhood friends all remained Earth-bound in jobs
+that rarely took them more than a few miles from their homes.
 
-His thoughts of home were interrupted by Corporal Cole's voice on the intercom
-informing him that there was a problem with engine number two.  Mackenzie
-glanced at the ship's navigation log and confirmed that they were still within
-schedule for their estimated return path, but any problem this far from home was
-a cause for concern.  Mining explorers were launched into space allowing only a
-small margin for error.  Their own mission was esitmated to last exactly seventy
-days from launch to landing. Any longer and the crew would arrive a little
-hungry and possibly short of breath.  
+His thoughts of home were interrupted by Corporal Cole's voice on the
+intercom informing him that there was a problem with engine number two.
+Mackenzie glanced at the ship's navigation log and confirmed that they were
+still within accepted schedule for their estimated return path, but any
+problem this far from home was a cause for concern.  Mining explorers were
+launched into space with only a small margin for error. Their particular
+mission was set to last exactly seventy days from launch to landing.  Any
+longer and the crew would arrive a little hungry and possibly short of
+breath.  
 
 Cole, the mission engineer, hung in the engine room holding the largest
 spanner in her tool box, grease on her hands and Federal issue jumpsuit,
-looking as macho as she possibly could suspended in zero gravity. She
-stared at the fuel intake of engine number two as if to intimidate it into
-reveling the cause of its malfunction. Having spent the past 45 minutes
-trying to diagnose the trouble with the engine, she had finally, and
-according to protocol, informed the Captain of the problem. 
+looking as macho as was possible suspended in zero gravity. She stared at
+the fuel intake of engine number two as if to intimidate it into reveling
+the cause of its malfunction. Having spent the past 45 minutes trying to
+diagnose the trouble with the engine, she had finally, and according to
+protocol, informed the Captain of the problem. 
 
-Since mining explorer crews were limited to one engineer, their
-training emphasized breadth over depth. They were primarily as problem
-solvers, and Cole enjoyed solving problems, especially physical ones,
-but she could also become easily frustrated by ones that seemed to
-offer no leverage point, and she did not particularly like help,
-especially when she was frustrated.
+Since mining explorer crews were limited to one engineer, her training had
+emphasized breadth over depth. They were primarily problem solvers, and
+Cole enjoyed solving problems, especially physical ones, but she could also
+become easily frustrated by ones that seemed to offer no leverage point,
+and she did not particularly like help, especially when she was frustrated.
 
-As Capt. Mackenzie entered the engine room, Cole remained focused on
-the engine. "Do you know what the problem might be?" he asked. She
-paused and then responded with a simple "No, Sir"  The problem is that
+As Capt. Mackenzie entered the engine room, Cole remained focused on the
+engine. "Do you know what the problem might be?" he asked. She paused and
+then without turning responded with a simple "No, Sir" and then added that
+the engine was running at 10 percent below capacity and she had not figured
+out why yet.
+
+She went back to her task and now began to directly address the engine in a
+sort of one-sided argument. It was her habit to talk to machines which
+exhibited seemingly (intractable problems), as if the machines illogical
+behavior was very proof of a lurking consciousness.
+
+As her frustration peaked, she shouted, "I don't get it, I don't get it!
+Your fuel flow is correct, the compression is working, the thrust values
+check and yet your acceleration is off ten percent!"
+
+"It is as if the engine decided to stop obeying the laws of phyics" se
+
+
+The problem is that
 there is no problem. What do you mean. Everything checks. The fuel.
 The pump. The regulator. It is as if our ship has simple decided to
 stop obeying the laws of physics. She said as if giving up.
@@ -52,19 +67,6 @@ another pause, added that the number two engine was running at 10
 percent of expected capacity. 
 
 Finally, she turned to the Captain and said, "Apparently, 
-
-She went back to quietly working on the engine and cursing at it under her
-breath as she became more and more frustrated. 
-
-After the Captain finished his questions, Cole returned to her conversation
-with the malfunctioning engine which was more of one-sided argument. It was her
-habit to talk to machines which exhibited seemingly (intractable problems), as if
-the machines illogical behavior was very proof of a lurking consciousness.
-
-As her frustration peaked, she said, "I don't get it, I don't get it! Your fuel
-flow is correct, the compression is working, the thrust values check and yet
-your acceleration is off ten percent! So, let's see, have you just decided to
-ignore the laws of physics for the time being?" 
 
 The tension, silently reverberating in the room, was broken by Lieutenant
 William Wayne, who said "Newton's third law to be specific." Wayne, the ship's
