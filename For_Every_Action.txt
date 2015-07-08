@@ -1,5 +1,5 @@
 As Captain Thomas Mackenzie sat alone on the ship's bridge and looked out
-at the endless night, he thought about his journey from a boy in a rural
+at the endless night, he thought about his journey from a small rural
 village to the captain of a Federal Mining Explorer.  While he had not
 risen to as high a rank as others in his graduating class at the academy,
 he had far surpassed the expectations for a boy from a poor family with no
@@ -9,7 +9,7 @@ that rarely took them more than a few miles from their homes.
 His thoughts of home were interrupted by Corporal Cole's voice on the
 intercom informing him that there was a problem with engine number two.
 Mackenzie glanced at the ship's navigation log and confirmed that they were
-still within accepted schedule for their estimated return path, but any
+still within the accepted schedule for their planned return path, but any
 problem this far from home was a cause for concern.  Mining explorers were
 launched into space with only a small margin for error. Their particular
 mission was set to last exactly seventy days from launch to landing.  Any
@@ -17,29 +17,30 @@ longer and the crew would arrive a little hungry and possibly short of
 breath.  
 
 Cole, the mission engineer, hung in the engine room holding the largest
-spanner in her tool box, grease on her hands and Federal issue jumpsuit,
-looking as macho as was possible suspended in zero gravity. She stared at
-the fuel intake of engine number two as if to intimidate it into reveling
-the cause of its malfunction. Having spent the past 45 minutes trying to
-diagnose the trouble with the engine, she had finally, and according to
-protocol, informed the Captain of the problem. 
+spanner in her tool box with grease on her hands and Federal issue jumpsuit
+and looking as macho as was possible suspended in zero gravity. She stared
+at the fuel intake of engine number two as if to intimidate it into
+reveling the cause of its malfunction. Having spent the past 45 minutes
+trying to diagnose the trouble with the engine, she had finally, and
+according to protocol, informed the Captain of the problem. 
 
-Since mining explorer crews were limited to one engineer, her training had
+Since mining explorer crews were limited to one engineer, her knowledge
 emphasized breadth over depth. They were primarily problem solvers, and
 Cole enjoyed solving problems, especially physical ones, but she could also
 become easily frustrated by ones that seemed to offer no leverage point,
 and she did not particularly like help, especially when she was frustrated.
 
 As Capt. Mackenzie entered the engine room, Cole remained focused on the
-engine. "Do you know what the problem might be?" he asked. She paused and
-then without turning responded with a simple "No, Sir" and then added that
-the engine was running at 10 percent below capacity and she had not figured
-out why yet.
+engine. "Do you know what the problem might be?" he asked. Without turning
+she quickly responded "No, Sir" and then added that the engine was running
+at 10 percent below capacity and she had not been able to figure out why.
 
-She went back to her task and now began to directly address the engine in a
-sort of one-sided argument. It was her habit to talk to machines which
-exhibited seemingly (intractable problems), as if the machines illogical
-behavior was very proof of a lurking consciousness.
+As the Capt. stood there she went back to her task. It was her
+habit to talk to machines which exhibited seemingly (intractable problems),
+as if the machines illogical behavior was very proof of a lurking
+consciousness.and now began to
+
+directly address the engine in a sort of one-sided argument. 
 
 As her frustration peaked, she shouted, "I don't get it, I don't get it!
 Your fuel flow is correct, the compression is working, the thrust values
