@@ -1,10 +1,10 @@
 As Captain Thomas Mackenzie sat alone on the ship's bridge and looked out
-at the endless night, he thought about his journey from a small rural
-village to the captain of a Federal Mining Explorer.  While he had not
-risen to as high a rank as others in his graduating class at the academy,
-he had far surpassed the expectations for a boy from a poor family with no
-political connections. His boyhood friends all remained Earth-bound in jobs
-that rarely took them more than a few miles from their homes.
+at the endless night, he thought about his journey from a boy in small
+rural village to the captain of a Federal Mining Explorer.  While he had
+not risen to as high a rank as others in his graduating class at the
+academy, he had far surpassed the expectations for a boy from a poor family
+with no political connections. His boyhood friends all remained Earth-bound
+in jobs that rarely took them more than a few miles from their homes.
 
 His thoughts of home were interrupted by Corporal Cole's voice on the
 intercom informing him that there was a problem with engine number two.
@@ -25,138 +25,132 @@ trying to diagnose the trouble with the engine, she had finally, and
 according to protocol, informed the Captain of the problem. 
 
 Since mining explorer crews were limited to one engineer, her knowledge
-emphasized breadth over depth. They were primarily problem solvers, and
-Cole enjoyed solving problems, especially physical ones, but she could also
-become easily frustrated by ones that seemed to offer no leverage point,
-and she did not particularly like help, especially when she was frustrated.
+emphasized breadth over depth. Mining crew engineers were primarily problem
+solvers, and Cole enjoyed solving problems, especially physical ones, but
+she could also become easily frustrated by ones that seemed to offer no
+leverage point, and she did not particularly like help, especially when she
+was frustrated.
 
 As Capt. Mackenzie entered the engine room, Cole remained focused on the
 engine. "Do you know what the problem might be?" he asked. Without turning
-she quickly responded "No, Sir" and then added that the engine was running
-at 10 percent below capacity and she had not been able to figure out why.
+she responded "No, Sir" and then added that the engine was running at 10
+percent below capacity and she had not been able to figure out why.
 
-As the Capt. stood there she went back to her task. It was her
-habit to talk to machines which exhibited seemingly (intractable problems),
-as if the machines illogical behavior was very proof of a lurking
-consciousness.and now began to
-
-directly address the engine in a sort of one-sided argument. 
+As the Capt. stood there she went back to her task which, out of
+frustration, had become a one-sided argument with the engine. It was her
+habit to talk to machines when they exhibited seemingly intractable
+problems, as if the machine's powerfully illogical behavior was very proof
+of a lurking consciousness. 
 
 As her frustration peaked, she shouted, "I don't get it, I don't get it!
 Your fuel flow is correct, the compression is working, the thrust values
-check and yet your acceleration is off ten percent!"
+check and yet for some reason you have decided to reduce your acceleration
+by ten percent!" and then we increasing sarcasm, "Maybe your just tired,
+need a little rest. In no hurry to get back to Earth, huh?"
 
-"It is as if the engine decided to stop obeying the laws of phyics" se
+She turned back to Mackenzie, and in a voice that was quite but tense she
+said, "The fuel appears to be burning correctly, but the engine is simply
+not responding with the correct amount of thrust. The problem is that there
+is no problem."
 
+"It is as if the engine decided to stop obeying the laws of physics" said
+William Wayne, the ship's mission scientist and third member of the crew
+who was now in the doorway curious about the commotion.
 
-The problem is that
-there is no problem. What do you mean. Everything checks. The fuel.
-The pump. The regulator. It is as if our ship has simple decided to
-stop obeying the laws of physics. She said as if giving up.
+Life on a mining explorer was mostly dull. In fact, the psychological
+demand of dealing with boredom was their biggest challenge, one that Space
+Control had yet to adequately address. The crew was only really necessary
+at during launches, landings and on planet. The rest of the time, which was
+most of the time, they mostly just waited while their ship carried them to
+and from their destinations. 
 
-For every action there is an equal an opposite reaction said 
+MacKenzie turned to Lt. Wayne and asked, "What do you mean?"
 
-He began to think about the law and wondered what it really meant.
+"Oh just that according to Newton's Third law of physics, for every action
+there must be an equal and opposite reaction. It appears that the action of
+burning fuel is not resulting a reaction of our acceleration." Said Wayne.
 
-"That doesn't make any sense" said the Captain as
-demonstrating either arrogance or ignorance in doubting
-the laws of Sir Isaac Newton. As if he could.
+The captain considered Wayne's comment seriously, and then not certain how
+to respond, addressed both Cole and Wayne saying, "Well, I will be on the
+bridge if anyone needs me." Cole went back to work on the engine minding
+Lieutenant Wayne's company far less than the Captain's.
 
+The captain floated alone on the bridge confident in Cole's ability to find
+a solution to the their problem. He recalled Wayne's statement as one of
+the familiar proverbs from his high school science classes. He had always
+enjoyed science and done well in it, but he never felt that he had the
+aptitude to pursue it more seriously.
 
-And then, after
-another pause, added that the number two engine was running at 10
-percent of expected capacity. 
-
-Finally, she turned to the Captain and said, "Apparently, 
-
-The tension, silently reverberating in the room, was broken by Lieutenant
-William Wayne, who said "Newton's third law to be specific." Wayne, the ship's
-mission scientist having come to check on the problem as well, then added "For
-every action there is an equal and opposite reaction" and receiving no
-response, continued, "The hot gasses move backward and the ship moves forward,
-though as Cole has indicated, we may have found an exception."
-
-The Captain, not certain how to respond, then addressed both Cole and Wayne
-saying, "Well, I will be on the bridge if anyone needs me." Cole went back to
-work on the engine minding Lieutenant Wayne's company far less than the
-Captain's.
-
-Life on explorers was not glamorous. In fact, the psychological demand of
-dealing with boredom was their biggest challenge, one that Space Control had
-yet to adequately address. The crew was only really necessary at during
-launches, landings and on planet. The rest of the time, which was most of the
-time, they mostly just waited while their ship carried them to and from their
-destination.
-
-The captain floated alone on the bridge confident in Cole's ability to find a
-solution to the their problem. He recalled Wayne's remark as one of the
-familiar proverbs from his high school science experience. He had always
-enjoyed science and done well in it, but he never felt that he had the aptitude
-for more serious study. 
-
-He was surprised that he had never considered how the complexity of their
-ship's entire propulsion system could be reduced to one simple law. He imagined
-explaining this concept to his nephew back on Earth, who greatly admired his
-uncle Mac the space explorer. But his nephew, with a child's naturally
-recursive mind, kept asking why about every detail until doubt began to creep
-into Macenzie's thoughts. Why do the action of gasses moving backward cause the
-reaction of the ship to go forward? There seemed to be no connection between
-the two events except the law that stated it was true. 
+As he thought more about it, he was surprised that he had never considered
+how the complexity of their ship's entire propulsion system, transporting
+them thousands of miles from Earth, could be reduced to one simple law. He
+imagined explaining this concept to his young nephew back on Earth, who
+greatly admired his uncle Mac the space explorer. But his nephew, with a
+child's naturally recursive mind, kept asking why until doubt began to
+creep into MacKenzie's own thoughts. Why do the action of gasses moving
+backward out of the ship cause the reaction of the ship to go forward?
+There seemed to be no connection between the two events except the law that
+stated it was true. 
 
 He checked the ships databases for answers, but found nothing more than
-restatements of the same law. Unfortunately, the ship's databases were not very
-complete as the obessive efficiency of space control extend to everything,
-including bits of data, down the the last bit. Only including what was
-necessary for a journey of 70 days.
+restatements of the same law and question-begging explanations.
+Unfortunately, the ship's databases were limited and not terribly large.
+In their endless quest for efficiency Space Control inventoried everything
+down to the very last bit of data and only including what was necessary for
+a journey of 70 days.
 
-The captain, certain that he must have missed something, called down to the
-engine room and addressing Wayne asked "About your reference to Newton's 3rd
-law of motion, I was just wondering if you could explain how the actions of the
-gas cause the reaction of the ship"
+The captain, certain that he must have missed some part of the explanation,
+called down to the engine room to find out if Lt. Wayne was still there.
+Entering the room he said, he had been thinking about Wayne's comment, but
+did not quite understand how Newton's law explained the propulsion of their
+ship. 
 
-Cole had become used to the Captain's almost embarrassingly blunt manner, but
-at over one hundred thousand miles from Earth, facing mechanical problems and
-was he seriously interested in the principles of high school physcis. Worse,
-Had he really repeatedly launched himself into deep space without ever
-wondering about how his ship got him there and back? 
+Cole had become used to the Captain's almost embarrassingly blunt manner,
+but had he really admitting that he had launched himself into deep space
+over half a dozen times without ever wondering how his ship got him there
+and back? And more importantly, why was he even thinking about this?
 
-"Why does the action of one object cause the reaction of another?" replied the
-Captain. "Because it is a law of physics" replied Cole in a tone that barely
-disguised her frustration. "That's no answer." said the Captain as if this were
-simply a matter of fact, adding, "A law itself is not a reason." For a moment
-no one spoke. Wayne looking at Cole, said to the Captain, "You seem to have a
-point." Cole just shrugged her shoulders and said, "How am I supposed to know."
+"Why does the action of one object cause the reaction of another?" asked
+the Captain. "Because it is a law of physics" replied Cole without looking
+up from her work and in a tone that barely disguised her annoyance.
+"That's no answer." said the Captain with no more emotion than if this were
+simply a matter of fact. He then added, "A law itself is not a reason." For
+a moment no one spoke.  Wayne said to the Captain, "Well, I never really
+thought about it that much. I guess you have a point." They both looked at
+Cole who just shrugged her shoulders and said, "How am I supposed to know."
 
-At that moment, the whole ship groaned and then became quiet. "What was that
-noise?" came Mackenzie's voice over the intercom. "Or lack of noise" said
-Wayne. "That was our entire propulsion system shutting down." said Cole turning
-her attention to the now silent engines. "What happened?" asked Mackenzie
-betraying a note of concern in his voice. Wayne responded, "I think we lost
-faith, sir."  "What?" replied the captain. "It seems that we doubted Newton's
-law right out of existence." replied Wayne. "That's nonsense" said the captain
-in a puzzled tone. "Maybe" replied Wayne, "But for the moment it is the best
-answer I've got." Everyone floated in silence.
+At that moment, the whole ship groaned and then became quiet. "What was
+that noise?" asked the Captain? "Or more importantly lack of noise" said
+Wayne. "That was our entire propulsion system shutting down." said Cole
+turning her attention to the now silent engines. "What happened?" asked
+Mackenzie betraying a note of concern in his voice. Wayne responded, "I
+think we lost faith."  "What?" replied the captain. "It seems that we
+doubted Newton's law right out of existence." replied Wayne. "That's
+nonsense" said the captain in a puzzled tone. "Maybe" replied Wayne, "But
+for the moment it is the best answer I've got." Everyone floated in
+silence.
 
-A full shutdown was bad, very bad. And they weren't just in space, but 2.9
-million miles from home. At their present speed, their spaceship would reach
-Earth in about 25 years or 24 years after their oxygen was expected to run out.
-They would become just another ghost ship litter in space, slowly and
-dutifully carrying its long deceased crew back to Earth. 
+A full shutdown in space was bad, very bad. And they weren't just in space,
+but 2.9 million miles from home. At their present speed without
+acceleration, their spaceship would reach Earth in about 25 years or 24
+years after their oxygen was expected to run out. They would become just
+another ghost ship littering space, slowly and dutifully carrying its long
+deceased crew back to Earth. 
 
-Captain Mackenzie composed a message describing their situation and sent it off
-to mission control. Looking out, he could imagine the message making its way
-safely back to Earth in a matter of minutes. He wondered how their situation
-would fair under the scrutiny of Space Control's cost benefit analysts. Would
-they advise mission control to cut their losses? What could mission control do
-anyway?
+Back on the brindge, Captain Mackenzie composed a message describing their
+situation and sent it off to mission control. Looking out, he could imagine
+the message making its way safely back to Earth in a matter of minutes. He
+wondered how their situation would fair under the scrutiny of Space
+Control's cost benefit analysts. Would they advise mission control to cut
+their losses? What could mission control do anyway?
 
-Twenty two hours later, the engine room had a disturbingly chaotic feel. Cole
-was applying a strategy of divide and conquer to the malfunctioning engines,
-isolating large system sections, testing them carefully, and then moving on to
-smaller sub-sections. Wayne and Cole spoke very little. Instead Cole addressed
-the engine directly, quietly continuing her one-sided debate. Her only
-conversation with Wayne involved instructing him to move an engine part or help
-with anything that required two hands.
+Twenty two hours later, the engine room looked more like a repair shop with
+engine parts everywhere. Under the premise of desparation, Cole had
+dismanteled most of the engine and was methodically testing each individual
+section before moving on to the next.  Wayne and Cole spoke very little.
+Instead Cole addressed the engine directly, quietly continuing her
+one-sided debate. Her only conversation with Wayne involved instructing him
+to move an engine part or help with anything that required two hands.
 
 While moving a large cooling pipe, Wayne without realizing it, hit Cole in the
 head.  Cole who was standing closely behind him turned and pushed Wayne sharply
