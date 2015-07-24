@@ -3,14 +3,16 @@ simple creatures called Blinkers, at least that is what modern anthropologist ca
 them. It is not clear that they called themselves anything at all. The Blinkers had
 eyes and eye lids much as we do, but blinked in a very precise and regular manner. 
 
-The duration of each blink was very short compared with the time between blinks
-giving them a view of the world similar to a series of snap shots evenly spaced
-apart in time. In fact, the duration of each blink was so short, that they
-could discern no motion in a single blink. They truly captured instants of
-time. You might ask how is this possible. For wouldn't even the shortest blink
-reveal some change in the position of a moving object?  But what if time and
-thereby motion was not continuous, but progressed in discrete increments like
-the second hand of a clock?  This was the world of the Blinkers.
+The duration of each blink, the time between when their eye was open and
+closed, was very short compared with the time between blinks giving them a
+view of the world similar to a series of snap shots evenly spaced apart in
+time. In fact, the duration of each blink was so short, that they could
+discern no motion in a single blink. They truly captured instants of time.
+You might ask how is this possible. For wouldn't even the shortest blink
+reveal some change in the position of a moving object?  But what if time
+and thereby motion was not continuous, but progressed in discrete
+increments like the second hand of a clock?  This was the world of the
+Blinkers.
 
 The Blinkers had one important flaw or feature depending on your perspective.
 Their memories of what they saw was shorter than the time between blinks. As a
@@ -73,10 +75,11 @@ With increasing power of deduction, they recognized not only that change
 was possible, but that they could cause change, and further that change
 could be used to their own advantage and the disadvantage of another.
 Suddenly, being knocked about by a fast moving object was no longer only
-due to a matter of chance, but often due to the intention of another. 
+due to a matter of chance, but often due to the intention of another
+Blinker.
 
 Unfortunately, their power of understanding had progressed more quickly
-than their power of rational behavior, and so, in short order intention
+than their power of rational behavior, and so, in short order, intention
 succeeded where chance had failed and the Blinkers proceeded to knock their
 entire race into oblivion leaving only a few remaining fossils in the sand.
 
