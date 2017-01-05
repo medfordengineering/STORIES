@@ -1,17 +1,18 @@
-After only fifteen minutes, Professor Zeretski had filled half the
-blackboard with equations and, as was his habit, paused after completing
-each equation and tapped the board with his chalk as if to emphasize that
-numbers, more than words, could be relied on to carry truth.  But the truth
+After only 15 minutes Professor Zeretski had already filled most of the
+blackboard with equations. After completing each equation he paused, as was
+his habit, and tapped the board with his chalk as if to emphasize that
+numbers, more than words, could be relied on to carry truth. But the truth
 was that his latest discovery sounded outlandish, maybe too outlandish,
-when simply described in lay English.
+when simply described in plain English.
 
 His audience, six men and one woman, were sitting around a long and
 expensive conference table in a room far above the streets of Manhattan. On
 the walls hung paintings of sailing yachts from an earlier era, all set in
-heavy wooden frames. The early morning sky was gray suggesting rain.
-Through the windows it was possible to see people far below wrapped in fall
-attire and making their way silently and with haste toward another day of
-work, but none of this had the attention of the people around the table. 
+heavy wooden frames and hardly distinguishsable except for the brass name
+plates that indentified each one. Through the windows it was possible to
+see people far below wrapped in fall attire and making their way silently
+and with haste toward another day of work, but none of this had the
+attention of the people around the table. 
 
 The blackboard, out of place in the room, had been brought in for
 Zeretski's presentation. No one had spoken since he began his lecture, but
@@ -20,7 +21,7 @@ started looking at each other with glances that confided how little they
 understood of what he was saying.
 
 The one woman in the room was the professor's lab assistant, Judith Kitts.
-A woman in her early 30s who had worked for him since she was a teenager.
+A woman in her late 20s who had worked for him since she was a teenager.
 She was the reason he was here and arranging this meeting had not been
 easy. The professor needed money and these were the sort of people who
 could give it to him. 
@@ -29,7 +30,7 @@ Finally, Mr. Jonson, one of the older gentlemen at the table, cleared his
 throat and interrupting Zeretski said, "Professor, with the likely
 exception of Ms. Kitts, we have only the vaguest notion of what you are
 talking about. Do you think you could explain your latest discovery in
-less..hmm...scientific terms?"
+less..well...scientific terms?"
 
 Professor Zeretski paused for a moment and stared out the window as if
 something else had caught his attention. He then turned back to look at
@@ -52,7 +53,7 @@ push them apart."
 
 "Maybe you can help Halpern here" said one of the younger men at the table,
 gesturing toward the man sitting next to him. "He's been chatting up the
-bar maid at Pete's Pub for weeks now and she still won't give him the time
+barmaid at Pete's Pub for weeks now and she still won't give him the time
 of day."
 
 "Then scientifically speaking, there is no attraction between them." said
@@ -61,7 +62,7 @@ lady, and with good reason, I might add." Halpern tired to smile, but was
 not entirely comfortable with this discussion of his personal life.
 
 "No" responded the professor shaking his head. "Young Halpern is no more
-attracted to the bar maid than this a wooden chair could feel an attraction
+attracted to the barmaid than this a wooden chair could feel an attraction
 to the most powerful magnet on earth. The attraction between humans" he
 continued, "behaves like any other force. It must be mutual."
 
@@ -73,28 +74,28 @@ Dropping the glass on the carpeted floor, he said, "The only reason the
 Earth moves so little is simply its size."
 
 As the glass lay on the floor, he addressed Halpern directly "You feel like
-you are supposed to like this bar maid and so you invent an artificial
+you are supposed to like this barmaid and so you invent an artificial
 sense of attraction where none exists." The room was silent for a moment as
 everyone around the table contemplated their own relationships with wives,
 friends and family.
 
-But was what they had discovered really love, thought Judith, as she
-contemplated her own life. Her knowledge of the subject was limited. It
-came mostly from books and movies and the confidences of her few friends.
-She had never known her mother and had cried when her father, a scientist
-who worked with Zeretski, had died, but had they loved each other?
+But was what they had discovered really love, thought Judith. It was not as
+if the topic had never come up in their discussions, but they never got far
+before one or the other changed the subject. What did she know about love
+anyway? Her knowledge of the subject came mostly from novels, movies and
+the confidences of her few friends. 
 
 The conversation turned to the status of Zeretski's discovery, specifically
 what proof he had for his claims. Zeretski confessed that, to date, his
 only experiments had been with animals, to be precise two mice which he
-revealed were named Harold and Helen. The names were Judith's suggetion and
-taken from a novel she had been reading at the time. She was now regretting
-her decision.
+revealed were named Harold and Helen. The names were Judith's suggetion,
+taken from a novel she had been reading at the time and a suggestion she
+now regretted.
 
-The tone of the meeting shifted again with the gentlemen now poking fun at
-the notion of two mice in love. Judith understood their skepticism, but not
-their lack of respect for a man who had won the Nobel Prize for physics at
-the age of 28. Men who had nothing to show for their work but money. 
+The tone of the meeting shifted again with the gentlemen poking subtle fun
+at the notion of two mice in love. Judith understood their skepticism, but
+not their lack of respect for a man who had won the Nobel Prize for physics
+at the age of 28. Men who had nothing to show for their work but money. 
 
 Zeretski had submitted his first paper to the Journal of Physics when he
 was only sixteen and a student at the University of Budapest.  Shortly
@@ -102,14 +103,17 @@ after, he was recruited to Princeton University where he completed his
 Nobel prize winning work on electronic transfer, which had led to the low
 cost electrification of cities and towns throughout the country.
 
-By his mid-thirties, he had become famous and one of the most respected
-scientists in America. Though the focus of his scientific work quickly
-shifted from the practical to the exotic. His 
+By his mid-thirties, he listed as one of the top ten known names along with
+on par with well-known baseball players of the day.  Babe Ruth. was as well
+known as Babe Ruth and sought out  He became the chair of the prestegis
+had seemed to enjoy his fame giving lectures and advising on a wide range
+of scientific subjects. A was the guest to have at dinner parties.
 
-Having achieved success so early
-in life and without serious struggle, it seemed he felt that nothing was
-impossible or possibly having earned it all too easily, he feared none of
-it was real.
+Though the focus of his scientific work quickly shifted from the practical
+to the fantastic. It seemed he felt he could harness the Having achieved
+success so early in life and without serious struggle, it seemed he felt
+that nothing was impossible or possibly having earned it all too easily, he
+feared none of it was real.
 
 With substantial financial backing, he had built a large laboratory in the
 warehouse district of Manhattan with a staff which at its peak numbered 34.
@@ -118,49 +122,57 @@ never lived up to his grand visions.
 
 As his work produced more failures, his visions grew more outlandish. He
 had taken to giving garish demonstrations that often included enormous
-sparks and blasts of colorful smoke, bordering on theater. The papers
-labeled him a mad scientist and he played the part well, so well, that it
-became unclear if Zeretski himself could distinguish what was real from
-what was theater. It sometimes seemed as if in desperation, he felt he
-might conjure reality from well crafted make believe. But Judith was
-convinced that his most recent work, their work, was quite real.
+sparks and blasts of colorful smoke, bordering on theater. The newspapers
+started to label him a mad scientist and he played the part well. So well,
+that it became unclear if Zeretski himself could distinguish what was real
+from what was theater. It sometimes seemed that, as if in desperation, he
+felt he might conjure reality from well crafted make believe. But Judith
+was convinced that his most recent work, their work, was quite real.
 
-After the meeting, Jonson and Franklin met privately. "What do you think of
-Zeretski's claims?" asked Jonson. "It is either the most important
-discovery of our century or just another one of his outlandish ideas." said
-Franklin.  "Mice." Jonson said, mostly to himself. "What sort of proof are
-mice?" "Why need to get an expert we trust to listen to his claims" said
-Franklin.  "Not likely" said Jonson. "He is completely paranoid. I guess I
-did not mention that he would only allow members of the firm at the
-meeting." "Then what was he doing with all those equations and scientific
-jargon in front of a group of bankers?" asked Franklin. "Who knows. How
-else do you really explain these sorts of things?" 
+After the meeting, Jonson and Franklin met privately in Jonson's office. A
+room so uncluttered that Franklin sometimes wondered what he did in here.
+Books always perfectly lined up in their wood paneled cases. 
+saw a piece of paper on his desk as if he did not read or write, but worked
+entirely in his mind and conveyed all his ideas efficient things got done.
 
-"So should we try to find out more?" asked Franklin. "Seems like it might
-be worth the expense." said Jonson. "Once we have more information, we can
-decide how to move forward" "Should I call Mueller?" asked Franklin.  "I
-think so. Let's get him started with the usual contract."
+"What do you think of Zeretski's claims?" asked Jonson. "It is either the
+most important discovery of our century or just another one of his crackpot
+ideas." said Franklin.  "Mice." Jonson said, mostly to himself as he leaned
+back in his chair "What sort of proof are mice?" "If we could get a
+scientist we trust to listen to his claims, we might be in a better
+position to judge." said Franklin. "Not likely" said Jonson. "He is
+completely paranoid. I guess I did not mention that he would only allow
+members of the firm at the meeting." "Then what was he doing with all those
+equations and scientific jargon in front of a group of bankers?" asked
+Franklin. "Hard to say, but how else do you really explain his sort of
+work?" 
+
+"The question is, is it worth trying to find out more?" asked Franklin.  "I
+say yes." said Jonson. "It won't cost that much and the potential profit is
+enormous." "Should I call Mueller?" asked Franklin.  "I think so. Let's get
+him started with the usual contract."
 
 Stanley Mueller was listed under private detectives in the Yellow Pages
 though mainly because there was no heading for criminal. To be fair, he did
 investigative work, but his work often and intentionally crossed legal
-boundaries and on occasion could even include physical coercion. Though he
-was tall and well built, he was not what you might typically consider a
-brute. He seemed to possess no particular malice toward anyone. He was
-simply a man who liked to take a direct path toward whatever objective was
-put in front of him.
+boundaries. He was tough and could push people around, but he was also
+handsome and equally comfortable using his looks to get what he wanted. He
+bore no particular malice toward the world or anyone in it, he just liked
+to get things done.
 
-He had grown up in the city, never finished high and moved from a life on
-the streets to his present occupation. His initial employment had mostly
-been as a thug working for various mob bosses, but he was smart and
-handsome and through a series of chance meetings had been introduced to a
+He had grown up in the city dropping out before he finished high school.
+He moved from a life on the streets to his present occupation. His initial
+employment had mostly been as a thug working for various mob bosses, but he
+was smart and through a series of chance meetings had been introduced to a
 class of gentlemen though not defined as criminals needed his sort of help
-once in a while. He had developed a reputation for getting a job done and
-for doing so discretely, and as a result, he made a decent living. At
-thirty years old, he lived alone dating a series of women until each one
-realized that the present state of Stanley Mueller would bare little
-difference to the future state of Stanley Mueller. The only ticking clock
-he heard in his head was the one marching him steadily through life.
+once in a while. 
+
+He had developed a reputation for working discretely, and as a result, he
+made a decent living. At thirty years old, he lived alone dating a series
+of women until each one realized that the present state of Stanley Mueller
+would bare little difference to the future state of Stanley Mueller. The
+only ticking clock he heard in his head was the one marching him steadily
+through life.
 
 After Stanley's meeting with Franklin and Jonson, he arrived back at his
 apartment to find a note from his present girlfriend letting him know that
@@ -172,78 +184,79 @@ decent meal might be a life improvement.
 
 He headed out to local diner and sat thinking about his new contract. It
 seemed straight forward enough, find and copy information about an
-invention that dealt with forces that existed between humans. The whole
-invention seemed kinda crazy, but who was he to judge. He had known of
-Zeretski since he was a kid. Everybody knew of Zeretski. The hardest part
+invention that dealt with some sort of force that existed between humans.
+The idea seemed kinda crazy, but who was he to judge. The hardest part
 seemed to be how to find the specific information that was important, but
 there had been a scientist at the meeting who had apparently worked with
 Zeretski and let him know exactly what he should look for and a good idea
-as to where to look.  Still, how would he be sure about what was important
-and what was not?  For now, he just had to figure out how to get in to
-his lab.
+as to where to find it. Still, how would he be sure about what was
+important and what was not? For now, he just had to figure out how to get
+in to Zeretski's lab.
 
-After the meeting, Judith had gone back to the lab with Zeretski hopeful
-that he had made a favorable impression, hopeful that the men in their
-expensive suits would believe in his work enough to invest. But her hopes
-sat on the surface of doubts. Doubts not only about their interest in their
-work, but doubts about the work itself. Her emotional state over the past
-few years (and maybe her whole life, she really could not remember) seemed
-vacilate between periods of doubt and optimism. But instead of resulting in
-a zero sum, these opposing feelings reinforced each other, always pushing
-her forward like the swing of a pendelum.
+That evening, Judith sat with her mother having diner and told her about
+her day. 
+
+After the meeting, Judith was optimistic. But experience told her that
+optimism was often followed by doubt. For the past few years (and maybe her
+whole life, she really could not remember) her emotional state seemed to
+vacilate between these two states. But instead of resulting in a zero sum,
+these contrasting forces seemed to reinforce each other, always pushing her
+forward like the swing of a pendelum.
 
 Professor Zeretski seemed immune from these sorts of vacillations. As long
-as she had know him, he also just continually pushed forward driven by some
-mysterous force either ignoring the world around him when it did not meet
-his or pushing through it like an on a north Atlantic icebreaker making its
-way through in a perpetual winter ice flow. 
+as she had known him, he continually pushed forward ignoring the world
+around him when it did not conform or pushing through it like an on a north
+Atlantic icebreaker making its way through in a perpetual winter ice flow. 
 
-It was two weeks after the meeting and Judith was seated at the bar of the
-San Marco where she went every Thursday evening to read a book and have a
-meal. She began coming here over a year ago with a friend from high school,
-but a few months ago her friend moved to another city and so she just
-continued coming here by herself. She was relieved when her friend moved
-away. The dinners had started to feel awkward. Very little changed in
-either of thier lives and sitting there with not much to say, only
-served to emphasize this point. Maybe she was just better off alone.
+Two weeks after the meeting and Judith was seated at the bar of the San
+Marco where she went every Thursday evening to read a book and have a meal.
+She began coming here over a year ago with a friend from high school, but a
+few months ago her friend had moved away. She continued coming here by
+herself. She was actually relieved when her friend moved away. The dinners
+had started to feel awkward. Very little changed in either of thier lives
+and sitting there with not much to say only served to emphasize this point.
+But they continued to meet on the pretext that repeating the same action
+would someday produced different results, one of the definitions of
+insanity.
 
-The last few weeks had been particularly stressful for Judith. The mere
-prospect of financial salvation cast a sharp contrast against the certainty
-of their financial predicament making it all the less bearable. She had no
-idea what she would do if she could not work in the lab and preferred not
-to think about, and to focus on her book instead.
+As she sat there, she was having a hard time focusing on her book. The last
+few weeks had been particularly stressful for Judith. The mere prospect of
+financial salvation cast a sharp contrast against the certainty of their
+financial predicament making it all the less bearable. She could not
+imagine her life without Zeretski and the lab and so, for the most part,
+she tried not to.
 
-The San Marco was a lively restaurant with dancing and a band, but for
-Judith it was a place that gave her a sense of peace that she did not find
-at work or home. Tucked away in her usual seat at the end of the bar she
-was surrounded by the chaotic energy of human life, the sort of human
-energy that would have made her feel uncomfortable had she been immersed in
-it, but from her seat the chaos danced around her, wild and powerful, but
-totally consumed with itself. It was as if the two worlds were in effect
-miles apart. As a result, she was mostly left alone.
+The San Marco was a lively restaurant with dancing and a band. Judith and
+her friend had usually sat at a table near the dance floor. Around them,
+well dressed couples and friends, drank and laughed and danced, but never
+quite able to pull them into their revelry. On her own she sat at the end
+of the bar safe from the pull of the chaotic energy of human life, wild and
+powerful, but totally consumed with itself. Like actors with no audience. 
 
-This evening the club was more crowded than usual, and a few minutes after
-she sat down, the man next to her offered to buy her a drink. Without
-looking up from her book she said "No thanks", and waited for the bartender
-to find her. 
+This evening the club felt more crowded than usual, and a few minutes after
+she sat down, the man next to her offered to buy her a drink. Nervous and
+without looking up from her book she said "No thanks", and waited for the
+bartender to find her. 
 
 The man then asked her what she was reading. Barely turning her head she
 named the title of the book and the author. He went on to say that he had
-read another book by the same author and asked her what she thought of it.
-This was generally her cue to leave, but as she turned she saw a man who
-was handsome, far more handsome than the ones that usually fell into the
-back eddy of the San Marco. This man looked like someone who did not belong
-next to her, someone who had somehow gotten lost from the crowd and not yet
-realized it. He looked at her with a smile that was warm and confident a
-sort of confidence that she could barely imagine.
+read another book by the same author and asked her if she had read that one
+as well. She said she had. He then said, "Hey, ain'tch ya even gonna look
+at the guy sitting next to you before you decide you don't like him?" His
+tone was warm and slightly intoxicating. She turned and found a handsome
+and confident smile, far more handsome than the ones that sometimes fell
+into the back eddy of the San Marco. For a moment, she thought that maybe
+he was lost, mistakenly flung from the crowd and not quite realizing where
+he had landed. 
 
-She answered that she had read the book he mentioned and then she waited.
-She could not exactly recall his question and so she just looked at him,
-curious to see what would happen next. He gave her a sort of quizzical look
-and then asked again what she thought of the book. She said, "Which one,
-the one I am reading or his other one?" She was aware that her question
-came off as abrupt, which was not what she intended but decided that that
-was fine. He sort of laughed and said "both."
+This was not the first time a boy had talked to her. She had even briefly
+dated a boy in high school. But this was the first one who looked and
+sounded like a guy from the movies. The kind of guy you were supposed to
+find but never did. Or at least she never did. She was not sure why she
+thought she deserved such a guy 
+
+She just looked at him, wondering what would happen next. "You
+okay?" he asked. "Sure" she started to smile.
 
 The spent the evening talking, initially about books, but she soon found
 that his reportior was limited, though he ask lots of questions and seem
