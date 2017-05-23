@@ -1,10 +1,10 @@
 As Captain Thomas Mackenzie sat alone on the ship's bridge and looked out
-at the endless night, he thought about his journey from small rural village
-to the bridge of a Federal Mining Explorer.  While he had not risen to as
-high a rank as others in his graduating class at the academy, he had far
-surpassed the expectations for a boy from a poor family with no political
-connections. His boyhood friends all remained Earth-bound in jobs that
-rarely took them more than a few miles from their homes.
+at the endless night, he thought about his journey from a small rural
+village to the bridge of a Federal Mining Explorer.  While he had not risen
+to as high a rank as others in his graduating class at the academy, he had
+far surpassed the expectations for a boy from a poor family with no
+political connections. His boyhood friends all remained Earth-bound in jobs
+that rarely took them more than a few miles from their homes.
 
 His thoughts of home were interrupted by Corporal Cole's voice on the
 intercom informing him that there was a problem with engine number two.
@@ -24,7 +24,7 @@ revealing the cause of its malfunction. Having spent the past 45 minutes
 trying to diagnose the trouble with the engine, she had finally, and
 according to protocol, informed the Captain of the problem. 
 
-Since mining explorer crews were limited to one engineer, her knowledge
+Since mining explorer crews were limited to one engineer, her training
 emphasized breadth over depth. Mining crew engineers were primarily problem
 solvers, and Cole enjoyed solving problems, especially physical ones, but
 she could also become easily frustrated by ones that seemed to offer no
@@ -36,10 +36,10 @@ engine. "Do you know what the problem might be?" he asked. Without turning
 she responded "No, Sir" and then added that the engine was running at 10
 percent below capacity and she had not been able to figure out why.
 
-As the Capt. stood there she went back to her task which, for the moment
-had been reduced to a one-sided argument with the engine. It was her habit
-to talk to machines when they refused to work, as if illogical behavior was
-proof of a lurking consciousness. 
+As the Capt. stood there, she went back to her task which, for the moment
+consisted of a one-sided argument with the engine. It was her habit to talk
+to machines when they refused to work, as if illogical behavior was proof
+of a lurking consciousness. 
 
 As her frustration peaked, she shouted, "I don't get it, I don't get it,
 fuel flow is correct, the compression is working, the thrust values check
