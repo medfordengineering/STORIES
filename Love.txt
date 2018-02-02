@@ -8,7 +8,7 @@ outlandish, when described in plain English.
 His audience, six men and one woman, were sitting around a long and
 expensive conference table in a room far above the streets of Manhattan. On
 the walls hung paintings of sailing yachts set in elegant wooden frames
-whose only intention was to convey a sense of confidence in their viewer.
+whose only intention was to instill a sense of confidence in their viewer.
 
 Through the windows it was possible to see, far below, people wrapped in
 fall attire making their way silently and with haste toward another day of
@@ -80,7 +80,7 @@ sense of attraction where none exists." The room was silent for a moment as
 everyone around the table contemplated their own relationships with wives,
 friends and family.
 
-Judith considered her own life. What did she know about love anyway? Her
+Judith considered her own life. What did she really know about love? Her
 knowledge of the subject came mostly from novels, movies and the
 confidences of her few friends. 
 
@@ -187,9 +187,9 @@ The idea seemed kinda crazy, but who was he to judge. The hardest part
 seemed to be how to find the specific information his clients needed, but
 there had been a scientist at the meeting who had apparently worked with
 Zeretski in the past and let him know exactly what he should look for and a
-good idea as to where to find it. Still, how would he be sure about what
-was important and what was not? For now, he just had to figure out how to
-get in to Zeretski's lab.
+good idea as to where to find it. Still, how would he be sure what was
+important and what was not? He would worry about that latter. For now, he
+just had to figure out how to get in to Zeretski's lab.
 
 That evening after the meeting, Judith sat in the kitchen of the apartment
 she shared with her mother reading the society section of the paper.
@@ -209,8 +209,8 @@ few nights a week. In front of the band was a dance floor surrounded by
 intimate candle-lit tables complete with well-dressed couples in neatly
 pressed attire that shined and sparkled. The crowd talked, laughed, drank
 and smoked and by early evening spilled onto the dance floor propelled
-toward chaos by their collective nervous tension but held in check by the
-steady jazz beat.
+toward chaos by their collective nervous tension and held in check only by
+the steady rhythm of the music.
 
 She had started going there with a friend after work, but over time her
 friend had lost interest. Judith continued going in the hope that she might
@@ -224,12 +224,13 @@ booths. The bartender usually greeted her when she arrived her, but mostly
 left her alone.
 
 That evening the club felt more crowded than usual. A few minutes after she
-sat down, she heard the man sitting next ask if he could buy her a drink.
-Her initial instinct was to get up and leave. The last couple of weeks at
-work had been stressful. The mere prospect of financial salvation cast a
-sharp contrast against the certainty of their financial predicament making
-it all the less bearable. She could not imagine her life without Zeretski
-and the lab and she was not in the mood for another disappointment.
+sat down, she heard the man sitting next to her ask if he could buy her a
+drink.  Her initial instinct was to get up and leave. The last couple of
+weeks at work had been stressful. The mere prospect of financial salvation
+cast a sharp contrast against the certainty of their financial predicament
+making it all the less bearable. She could not imagine her life without
+Zeretski and the lab and she was not in the mood for another
+disappointment.
 
 But she was enjoying her book and did not want to go home. Without looking
 up she said "No thank you", and waited for the bartender to find her. The
@@ -247,13 +248,13 @@ thought that maybe he was lost, mistakenly flung from the crowd and not
 quite realizing where he had landed. 
 
 Cute boys had talked with her before, but only in high school and only to
-tease her. One would approach her and start to flirt with her and she would
-imagine that he, unlike the others, had seen through her quiet exterior to
-the person that she knew she could be, and than start to laugh unable to
-contain himself and joined by his friends waiting close by. The humor
-captured in the absurdity of the proposal. It was in this way that she
-learned the limits of her physical attraction. A far more accurate
-reflection than any mirror could provide.
+tease her. One would approach her and start to flirt and she would imagine
+that he, unlike the others, had seen through her quiet exterior to the
+person that she knew she could be. But then he would break out in a laugh
+unable to contain himself and joined by his friends. The humor captured in
+the absurdity of the proposal. It was in this way that she learned the
+limits of her physical attraction. A far more accurate reflection than any
+mirror could provide.
 
 But he was no high school student and there were no friends waiting by his
 side for the joke to unfold. 
@@ -270,6 +271,8 @@ character." she admitted. "I don't tell too many people this," he said,
 "but as a kid, he was my hero.  I wanted to be a scientist, but couldn't
 afford college." adding that he had to settle for being a salesman for a
 large electronics manufacturer.  
+
+PPPP    
 
 "What is he working on now?" he asked. She wanted to tell him about their
 latest work, about their theories about the forces that bind people
