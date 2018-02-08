@@ -1197,4 +1197,6 @@ city.  Dad moved to a small apartment near the factory where he continued
 to work until it closed a few years latter and then went on to work at a
 junk yard where he still works to this day removing working parts from cars
 and appliances and grumbling about how people "ain't got no business owning
-a dishwasher if they are just going to throw it out as soon as it breaks."
+a dishwasher if they are just going to throw it out as soon as it gets
+broke."
+
