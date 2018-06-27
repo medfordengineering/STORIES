@@ -39,19 +39,17 @@ percent below capacity though she had not been able to figure out why.
 As the Capt. stood there, she went back to her task, which for the moment
 consisted of a one-sided argument with the engine. It was her habit to talk
 to machines when they refused to work as they were supposed to, as if their
-illogical behavior was proof of a lurking consciousness. 
+illogical behavior was proof of a lurking consciousness. As her frustration
+peaked, she grumbled loudly, "Arggg!  I don't get it, I just don't get it!"
+her fist tightly clenched around the spanner as if she might resort to
+beating the engine into obedience, "I guess you're just tired, no hurry to
+get back to Earth, huh?"
 
-As her frustration peaked, she grumbled loudly, "Arggg!  I don't get it, I
-just don't get it!" her fist tightly clenched around the spanner as if she
-might resort to beating the engine into obedience and then addressing the
-engine directly, "I guess you're just tired, no hurry to get back to Earth,
-huh?"
-
-She turned back to the Capt., resigned to him standing there watching, and
-said, "All I can say is that, the engine is working properly with the one
-small exception that it is not working properly. It appears to be burning
-fuel at the correct burn-rate and the exhaust flow appears functional. The
-problem is that there is no problem."
+She turned back to the Capt., resigned to him standing there watching her,
+and said, "All I can say is that, the engine is working properly with the
+one small exception that it is not working properly. It appears to be
+burning fuel at the correct burn-rate and the exhaust flow readings are
+correct for the burn-rate. The problem is that there is no problem."
 
 "It is as if the engine decided to stop obeying the laws of physics" said
 William Wayne, the ship's mission scientist and third member of the crew
@@ -60,16 +58,16 @@ who was now in the engine room doorway curious about the commotion.
 Life on a mining explorer was for the most part excruciatingly dull. The
 psychological demand of dealing with boredom was a crew's biggest
 challenge, one that United Space Control had yet to adequately address. The
-crew was only really necessary at during launches, landings and on surface.
+crew was only really necessary during launches, landings and on surface.
 The rest of the time, which was most of the time, they just waited while
-their ship carried them to and from their destinations. 
+their ship carried them to and from their destination. 
 
 Cole just rolled her eyes and turned back to the engine. The Capt. turned
 to Lt. Wayne and asked, "What do you mean?" expressing more sincerity than
 the comment warranted.
 
 "Oh, uh...just trying to inject a little humor into the situation." The
-Capt. looked at Wayne with a furrowed brow trying to make sense of his
+Capt. looked at Wayne with a knitted brow trying to make sense of his
 response. After an awkward pause, Wayne added "Well, it is just that
 according to Newton's Third law of physics, for every action there must be
 an equal and opposite reaction. If the engine is correctly burning fuel,
@@ -77,44 +75,54 @@ the action, then the rocket must accelerate proportionally, the
 corresponding reaction." and then adding "and, uh, apparently that is not
 the case."
 
-The captain considered Wayne's comment for a moment and then said, "I
-know." Turning now to address Cole he said, "Well, I will be on the bridge
+The captain considered Wayne's comment for a moment and then said, "Yes,
+Well." Turning now to address Cole he said, "I will be on the bridge
 writing up a report if anyone needs me." Cole continued working on the
 engine minding Lieutenant Wayne's company far less than the Captain's.
 
 The captain floated alone on the bridge confident in Cole's ability to find
 a solution to the their problem. Cole had been assigned to his command
-three years ago, after he had accepted a transfer from intra-orbit shipping
-to mining exploration. As a new captain, he did not have a lot of choice
-regarding his crew and he could have done a lot worse. She had received a
-perfect score on the technical portion of her exams, a rare feat on any of
-the eight areas of examination which along with assessing technical skills
-tested everything from physical endurance to social compatibility.  
+three years ago, after the captain had accepted a promotion from Chief
+Officer of intra-orbit shipping vessel to a Captain of the mining explorer.
+As a new captain, he did not have a lot of choice regarding his crew and he
+could have done a lot worse.  She had received a perfect score on the
+technical portion of her exams, a rare feat on any of the five areas of
+examination which, along with assessing technical skills, tested everything
+from physical endurance to social compatibility.  
 
-Although they had spent more than 2000 hours living continuously in close
-quarters, he would not say they were exactly friends. Endurance space crews
-tended to not be very social. Since very little happened during their
-flights there was very little fodder for new conversation after the first
-few weeks or so. He assumed she enjoyed his company since, as far as he
-knew, she had not put in for a transfer. 
+Although they had spent a total of more than 8000 hours living together in
+close quarters over the past three years, he would not say they were
+exactly close friends. They did not socialize outside of flight time and
+did not socialize much during flight time for that matter. With little to
+no change in their daily routine there was little fodder for new
+conversation. Though, the captain assumed she liked him or, at least,
+enjoyed his company since, as far as he knew, she had not put in for a
+transfer. 
 
-He found Wayne more problematic. It was their first mission together. His
-former science officer had retired last year. He felt that he could never
-quite understand what Wayne was getting at and yet he always seemed to be
-getting at something. 
+He found his relationship with Wayne more difficult. It was their first
+mission together. His former science officer had retired last year. Wayne
+was a pleasant enough person, but He felt that he could never quite
+understand what Wayne was getting at and yet he always seemed to be getting
+at something. 
 
-He would prepare a report that would take 25 minutes to reach earth and at
-least a few hours to process. Sometimes days. It would be sent back with
-little useful information. It was a habit carried over from when space
-travel was limited to a few thousand miles, but at over a million miles
-from home there was no longer any meaningful connection. They were truly on
-their own.
+He began preparing a report that would take 25 minutes to reach earth and
+at least a few hours to process before being sent back. It would be sent
+back with little useful information. It was a habit carried over from when
+space travel was limited to a few thousand miles, but at over a million
+miles from home there was no longer any meaningful connection. They were
+truly on their own.
 
-As he wrote his thoughts kept turning to his conversation with Wayne. The
-last time he thought about Newton's laws of physics was in flight school.
-Of course he knew that at the very basic level, the entire motion of their
-ship was simply a demonstration of Newton's law. It was his love of science
-and physics in particular that had convinced him to study for the flight
+As he wrote his mind wandered. It was a frustrating habit that he seemed to
+have acquired during his first endurance flight.  himself on long flights.
+The problem was that once his mind wandered off track there was he left his
+train of thought along with the nagging reminder to stay on track.
+thoughts kept turning to his conversation with Wayne. 
+
+The last time he thought about Newton's laws of physics was in flight
+school. He enjoyed how the whole basis of space flight could be boiled down
+to a simple law of motion that Newton set down over 300 years ago and long
+before space could even be imagined. It was his love of science and physics
+high school in particular that had convinced him to study for the flight
 school exam. 
 
 His thoughts drifted to his nephew, his only sister's nine year old son
