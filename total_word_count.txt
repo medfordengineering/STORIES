@@ -1,5 +1,5 @@
 Pirates: 13516
-Falling: 12173
+Falling: 12173 (12505)
 Love: 6900
 King: 2692
 Blinkers: 899
