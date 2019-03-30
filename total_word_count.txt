@@ -1,4 +1,4 @@
-*Superhero: 3690
+Superhero: 11267
 Magic: 6100
 Pirates: 13516
 Falling: 12500
@@ -7,7 +7,7 @@ King: 2692
 Blinkers: 899
 
 
-Total 46297
+Total 53876
 Need: 8703
 
 Goal: 55000
