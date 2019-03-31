@@ -20,7 +20,7 @@ possibly short of breath.
 Cole, the mission engineer, hung in the engine room holding the largest
 spanner in her tool box with grease on her hands and Federal-issue jumpsuit
 and looking as macho as was possible suspended in zero gravity. She stared
-at the fuel intake of engine number two as if to intimidate it into
+at the fuel intake control of engine number two as if to intimidate it into
 revealing the cause of its malfunction. Having spent the past 45 minutes
 trying to diagnose the trouble with the engine, she had finally, and
 according to protocol, informed the Captain of the problem. 
@@ -29,32 +29,33 @@ Since mining explorer crews were limited to one engineer, her training
 emphasized breadth over depth. Mining crew engineers were primarily problem
 solvers, and Cole enjoyed solving problems, especially physical ones, but
 she could also become easily frustrated by ones that seemed to offer no
-leverage point, and she did not particularly like help, especially when she
-was frustrated.
+point of leverage, and she did not particularly like help, especially when
+she was frustrated.
 
 As Capt. Mackenzie entered the engine room, Cole remained focused on the
-engine. "Do you know what the problem might be?" he asked. Without turning
-she responded "No, Sir" and then added that the engine was running at 10
+engine. "Any idea what the problem might be?" he asked. Without turning she
+responded "No, Sir" and then added that the engine was running at 10
 percent below capacity though she had not been able to figure out why.
 
 As the Capt. stood there, she went back to her task, which for the moment
 consisted of a one-sided argument with the engine. It was her habit to talk
-to machines when they refused to work as they were supposed to, as if their
-illogical behavior was proof of a lurking consciousness. As her frustration
-peaked, she grumbled loudly, "Arggg!  I don't get it, I just don't get it!"
-her fist tightly clenched around the spanner as if she might resort to
+to machines when they refused to work as they were supposed to work, as if
+their illogical behavior was proof of a lurking consciousness. As her
+frustration peaked, she grumbled loudly, "Arggg! Why aren't you working!"
+her fist tightly clenched around the spanner thinking she might resort to
 beating the engine into obedience, "I guess you're just tired, no hurry to
-get back to Earth, huh?"
+get back to Earth, huh?" she sighed.
 
 She turned back to the Capt., resigned to him standing there watching her,
 and said, "All I can say is that, the engine is working properly with the
 one small exception that it is not working properly. It appears to be
 burning fuel at the correct burn-rate and the exhaust flow readings are
-correct for the burn-rate. The problem is that there is no problem."
+correct for the burn-rate. The problem is..." She shook her head "that
+there is no problem."
 
-"It is as if the engine decided to stop obeying the laws of physics" said
-William Wayne, the ship's mission scientist and third member of the crew
-who was now in the engine room doorway curious about the commotion.
+"Maybe it decided to stop obeying the laws of physics" said William Wayne,
+the ship's mission scientist and third member of the crew who was now in
+the engine room doorway curious about the commotion.
 
 Life on a mining explorer was for the most part excruciatingly dull. The
 psychological demand of dealing with boredom was a crew's biggest
@@ -68,57 +69,58 @@ to Lt. Wayne and asked, "What do you mean?" expressing more sincerity than
 the comment warranted.
 
 "Oh, uh...just trying to inject a little humor into the situation." The
-Capt. looked at Wayne trying to make sense of this response. To relieve the
-standoff, Wayne added "Well, it is just that according to Newton's Third
-law of physics, for every action there must be an equal and opposite
+Capt. looked at Wayne trying to make sense of this response. Filling the
+awkward silence Wayne added "Well, it is just that according to Newton's
+Third law of physics, for every action there must be an equal and opposite
 reaction. If the engine is correctly burning fuel, the action, then the
 rocket must accelerate proportionally, the corresponding reaction." and
 then adding "and apparently, well, according to Cole's description, that is
 no longer necessarily the case."
 
-The captain considered Wayne's comment for a moment and then said, "Yes,
-well." Turning now to address Cole he said, "I will be on the bridge
-writing up a report if anyone needs me." Cole continued working on the
-engine minding Lieutenant Wayne's company far less than the Captain's.
+The captain narrowed his brows and considered Wayne's comment for a moment
+and then said, "Yes, well." Turning now to address Cole he said, "I will be
+on the bridge writing up a report if anyone needs me." Cole continued
+working on the engine minding Lieutenant Wayne's company somewhat less than
+the Captain's.
 
 The captain floated alone on the bridge confident in Cole's ability to find
-a solution to the their problem. Cole had been assigned to his command
-three years ago, after the captain had accepted a promotion from Chief
-Officer to Captain which came with a transfer from intra-orbit shipping to
-mining exploration. Assignments in mining exploration were generally not
-coveted because of their increased risk and extensive time in flight, but
-they paid well and were a good way to get promotions.
+a solution to the their problem. Cole had been assigned to his command a
+year ago, after the captain had accepted a promotion from Chief Officer to
+Captain which came with a transfer from intra-orbit shipping to mining
+exploration. Assignments in mining exploration were generally not coveted
+because of their increased risk and extensive time in flight, but they paid
+well and were a good way to get promotions.
 
 As a new captain, he did not have a lot of choice regarding his crew and he
-could have done a lot worse.  Cole had received a perfect score on the
+could have done a lot worse. Cole had received a perfect score on the
 technical portion of her exams, a rare feat on any of the five areas of
 examination which, along with assessing technical skills, tested everything
 from physical endurance to social compatibility.  
 
-Although they had spent a total of more than 8000 hours living together in
-close quarters over the past three years, he would not say they were
-exactly close friends. They did not socialize outside of mission and did
-not socialize much during mission for that matter. Their daily routine
-which rarely varied offered little fodder for conversation. Though,
-Mackenzie assumed she liked him or, at least, enjoyed his company since, as
-far as he knew, she had not put in for a transfer. 
+Although they had spent more than 2000 hours living together in close
+quarters over the past year, he would not say they were exactly close
+friends. They did not socialize outside of missions and did not socialize
+much during missions for that matter. Their daily routine, which rarely
+varied, offered little fodder for conversation. Though, Mackenzie assumed
+she liked him or, at least, enjoyed his company since, as far as he knew,
+she had not put in for a transfer. 
 
 He found his relationship with Wayne more difficult. It was their first
-mission together. His former science officer had retired last year. Wayne
-was a pleasant enough person, but He felt that he could never quite
-understand what Wayne was getting at and yet he always seemed to be getting
-at something. 
+mission together. His former science officer had recently retired. Wayne
+was a pleasant enough person, but he felt that he could never quite
+understand what Wayne was getting at, and yet he thought, he always seemed
+to be getting at something. 
 
-He began preparing a report that once sent would take 25 minutes to reach
-earth and at least a three hours to process before being sent back. The
-returning message would carry little useful information. It was a ritual
-carried over from when space travel was limited to a few thousand miles,
-but at over a million miles from home there was no longer any meaningful
-connection. They were truly on their own.
+He began preparing the mandatory report that once sent would take 25
+minutes to reach earth and at least a three hours to process before being
+sent back. The returning message would carry little useful information. It
+was a ritual carried over from when space travel was limited to a few
+thousand miles above Earth, and ships could carry on conversations in
+real-time with mission control, but at over a million miles from home there
+was no longer any meaningful connection. 
 
 What was it that bothered him about Wayne. He knew his comment was not to
 be taken seriously.
-
 
 As he wrote his mind wandered. It was a frustrating habit that he seemed to
 have acquired during his first endurance flight. With an excess of time his

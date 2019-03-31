@@ -8,6 +8,6 @@ Blinkers: 899
 
 
 Total 53876
-Need: 8703
+Need: ~900
 
 Goal: 55000
