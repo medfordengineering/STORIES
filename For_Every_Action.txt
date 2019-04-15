@@ -39,19 +39,19 @@ percent below capacity though she had not been able to figure out why.
 
 As the Capt. stood there, she went back to her task, which for the moment
 consisted of a one-sided argument with the engine. It was her habit to talk
-to machines when they refused to work as they were supposed to work, as if
-their illogical behavior was proof of a lurking consciousness. As her
-frustration peaked, she grumbled loudly, "Arggg! Why aren't you working!"
-her fist tightly clenched around the spanner which she imagined using to
-beat the engine into obedience, "I guess you're just tired, no hurry to get
-back to Earth, huh?" she sighed a long breath.
+to machinery when it refused to work as it was supposed to work, as if its
+illogical behavior was proof of a lurking consciousness. As her frustration
+peaked, she grumbled loudly, "Arggg! Why aren't you working!" her fist
+tightly clenched around the spanner which she imagined using to beat the
+engine into obedience, "I guess you're just tired, no hurry to get back to
+Earth, huh?" she sighed a long breath.
 
 She turned back to the Capt., resigned to him standing there watching her,
 and said, "All I can say is that, the engine is working properly with the
 one small exception that it is not working properly. It appears to be
 burning fuel at the correct burn-rate and the exhaust flow readings are
-correct for the burn-rate. The problem is..." She shook her head "that
-there is no problem."
+correct for the burn-rate. The problem is..." She shook her head in
+resignation "that there is no problem."
 
 "Maybe it decided to stop obeying the laws of physics" said William Wayne,
 the ship's mission scientist and third member of the crew who was now in
@@ -59,12 +59,10 @@ the engine room doorway curious about the commotion.
 
 Life on a mining explorer was for the most part excruciatingly dull. The
 psychological demand of dealing with boredom was a crew's biggest
-challenge, one that United Space Control had yet to adequately address. The
+challenge, one that United Space Command had yet to adequately address. The
 crew was only really necessary during launches, landings and on surface.
 The rest of the time, which was most of the time, they just waited while
 their ship carried them to and from their destination. 
-
-TRIED SLEEP BUT DID NOT WORK
 
 Cole just rolled her eyes and turned back to the engine. The Capt. turned
 to Lt. Wayne and asked, "What do you mean?" expressing more sincerity than
@@ -76,8 +74,8 @@ Filling the silence Wayne added "Well, it is just that according to
 Newton's Third law of physics, for every action there must be an equal and
 opposite reaction. If the engine is correctly burning fuel, the action,
 then the rocket must accelerate proportionally, the corresponding
-reaction." and then adding "and apparently, well, according to Cole's
-description, that is no longer necessarily the case."
+reaction." and then adding "and apparently...well, according to Cole's
+description, that is no longer the case."
 
 The captain narrowed his brows as he considered Wayne's response. He then
 said, "Yes, well." Turning now to address Cole he said, "I will be on the
@@ -99,8 +97,6 @@ technical portion of her exams, a rare feat on any of the five areas of
 examination which, along with assessing technical skills, tested everything
 from physical endurance to social compatibility.  
 
-short for Collette.
-
 Although they had spent more than 3000 hours living together in close
 quarters over the past year, he would not say they were exactly close
 friends. They did not socialize outside of missions and did not socialize
@@ -117,76 +113,79 @@ getting at something.
 
 The Captain began preparing the mandatory report that once sent would take
 25 minutes to reach earth and at least a half hour to process before being
-sent back. The returning message would carry little useful information. It
-was a ritual of communication carried over from when space travel could
-still be measured in thousands of miles above Earth, and ships could, in
-real time, work through a problem with Space Control, but at over a million
-miles from home there was no longer any meaningful connection. 
+sent back. The returning message would likely carry little useful
+information. It was a ritual of communication carried over from when space
+travel could still be measured in thousands of miles above Earth, and ships
+could work through a problem with Space Command in real time, but at over
+200 million miles from home there was no longer any meaningful connection. 
 
 What was it that bothered him about Wayne, he thought? He knew his comment
-was not to be taken seriously. He noticed his mind wandering. It was a
-frustrating habit that he seemed to only have been exacerbated by time
-spent on endurance flights. He tried to refocus on writing his report, but
-there was little incentive. What could Command do? It would have been a
-different story had the problem occurred on the advance portion of their
-trip. Depending their distance from Earth Command could request a return.
-But at this stage they were already trying to return as fast as they could.
+was not meant to be taken seriously. He observed his mind wandering. It was
+a frustrating habit that seemed to only have been exacerbated by time spent
+on endurance flights. He tried to refocus on writing his report, but there
+was little incentive. What could Command do? He thought. It would have been
+a different story had the problem occurred on the advance portion of their
+trip, when they could order a return. But at this stage of their journey
+they were already trying to return and as fast as they could.
 
 "For every action, there is an equal an opposite reaction." He said to
-himself and recalled learning this exact mantra in high school physics.
-But what exactly did that mean. He turned to the ship's computer and looked
+himself. He recalled learning this exact mantra in high school physics.
+But what exactly did that mean? He turned to the ship's computer and looked
 up Newton's laws of physics. There it was Newton's third law, stated just
 as Wayne had quoted. It included a description of how when a person sits on
 a chair the person exerts a downward force and the chair exerts an upward
-force and he remembered being just as confused by this as he was in high
-school. 
+force. He remembered being just as confused by this sort of example as he
+was in high school. 
 
-He remembered doing well in physics though. He was good with equations. He
+He also remembered doing well in physics. He was good with equations. He
 remembered the example of a cannon that his teacher had provided. The ball
-went forward and the cannon when back. At least this example made more
-sense to him. He had experienced recoil growing up in the country and using
-rifles. The problem with the rocket seemed a bit more subtle, but he knew
-the gases acted as the ball might, just lots of small balls instead of one
-large one moving backward.  His rocket was just the giant recoil of a gun.
+went forward and the cannon when back. At least this demonstration made
+more sense to him. He had experienced the recoil of a rifle growing up in
+the country. The problem with the rocket seemed a bit more subtle, but he
+knew the gases acted as the ball might, just lots of small balls instead of
+one large one moving backward.  His rocket was just the giant recoil of a
+gun.
 
-His thoughts now drifted to his nephew, his only sister's nine year old son
-Max. Max was a lot like him. He liked science and was good at it. Max was
-proud of his uncle, the great space explorer. He had already decided that
-he wanted to follow in his footsteps and become a space explorer as well.
+His thoughts now drifted to his nine year old nephew Max, his only sister's
+only son. Max was a lot like him. He liked science and was good at it.  Max
+was proud of his uncle, the great space explorer. He had already decided
+that he wanted to follow in his footsteps and become a space explorer as
+well.
 
-He found himself explaining to Max the principles of rocket travel,
+He now imagined himself explaining to Max the principles of rocket travel,
 describing the hot gases moving backward propelled the rocket forward with
-enough force escape the pull of Earth and to travel millions of miles
-through space. He quoted Netwon's principle and emphasized the importance
-of doing well in physics class. 
+enough force to accelerate their giant ship millions of miles through space
+from where they began at Earth Orbit Station. He quoted Netwon's principle
+and emphasized the importance of doing well in physics class. 
 
-But Max, possessing the naturally recursive of a child, kept asking why
-"Why do the gasses cause the ship to move forward?" "Well, that is one of
-the three basic law of physics, discovered by the Issac Newton, the father
-of classical physics.  Even with everything we have learned, those three
-laws still apply today." "But how does that work?" "Well as I said, the
-gasses are propelled out of the rear of the spaceship and so the ship moves
-forward...it is the basic...a law..." 
+But Max, possessing the naturally recursive mind of a child, kept asking
+"Why?". "Why do the gasses cause the ship to move forward?" "Well, that is
+one of the three basic law of physics, discovered by the Issac Newton, the
+father of classical physics.  Even with everything we have learned, those
+three laws still apply today." "But I still don't understand. Why do the
+gases moving backward move the ship forward?" "Well as I said, the gasses
+are propelled out of the rear of the spaceship and so the ship moves
+forward...it is the basic law..." 
 
-His thoughts trailed off. His conversation interrupted...Suddenly he was
-stuck and back on board. How exactly did the hot gasses move the ship
-forward or the bullet move the gun backward for that matter? He could think
-of no real connection between the two events. It was true that the hot
-gasses left the ship at great speed and it was certainly true that the ship
-moved forward. But why?
+Suddenly, he was no longer talking to his nephew. How exactly did the
+hot gasses move the ship forward or the bullet move the gun backward for
+that matter? He could think of no real connection between the two events.
+It was true that the hot gasses left the ship at great speed and it was
+certainly true that the ship moved forward. But why?
 
 Just because one object moved backward, why would another object need to
-move forward and why would these two motions need to equate. Was there some
-sort of universal conservation of direction. And if so, why? He imagined
-all sorts of pairs of objects that did or did not behave in this manner.
-The rule seemed far from universal. "For every action" he thought but what
-constituted an action? 
+move forward and why would these two motions need to cancel out each other.
+Was there some sort of universal conservation of direction? And if so, why?
+He imagined all sorts of pairs of objects that did or did not behave in
+this manner. The rule seemed far from universal. "For every action" he
+thought but what constituted an action? 
 
 In space this was easy to test. He could throw a moderately heavy object
-forward and his body responded by moving in the other direction, but again,
-why?  xx more he thought about it the more frustrated he became. Here he
-was the Captain of an space explorer and yet he could not even explain how
-he had gotten himself a million miles from home.
+forward and his body responded by moving in the other direction, but this
+just showed it was true, at least in the case of thrown objects. It did not
+answer why. He became increasingly frustrated. Here he was the captain of
+an space explorer and yet he could not even explain how he had gotten
+himself over a million miles from home.
 
 He forced himself to finish the report. The answer would come to him, it
 would just take time. After he sent the report, he continued to work
@@ -198,81 +197,82 @@ humans on board who, for the most part, had nothing better to do. It was
 widely accepted but never officially stated that these tasks were simply a
 way to keep the crew occupied and, more importantly, sane.
 
-In addition to daily tasks, there were system checks to be followed for
+In addition to daily tasks, there were detailed routines to be followed for
 just about every possible scenario including partial engine failure. As
-captain of the ship he was required to memorize an entire operations
-flowchart complete with thousands of conditions and loops and that filled a
-230 page manual.
+captain of the ship he was required to memorize the entire operations
+procedures manual or OP for any single ship. These were essentially giant
+flowcharts with thousands of conditions and loops. The OP for his ship
+filled a 1000 pages.
 
-In reality most captains studied enough to pass the test and soon forgot
-most of the material. Mackenzie prided himself on his memory, but still
-consulted the manual when faced with uncommon events.
+In reality most captains studied enough to pass their ship test and soon
+forgot most of the material. Mackenzie prided himself on his memory, but
+still consulted the manual when faced with uncommon events.
 
-After more than an hour he had not heard from Cole and so he made his way
-down to the engine room to find Lt. Wayne still there silently watching
-Cole work. Their silence gave him the uneasy sense that they had been
-talking about him before he arrived. He asked Cole if she had been able to
-figure out what was wrong with the engine. She said no turning to address
-him and seeming somewhat more resigned to difficult. 
+After more than an hour he had not heard from Cole. Following protocol she
+should have reported in to him fifteen minutes ago. He wondered why she had
+not followed protocol, but advised himself, reluctantly, that he should not
+push this point at the moment.
 
-Either way she should have reported in to him fifteen minutes ago. He
-wondered why she had not followed protocol, but advised himself,
-reluctantly, that he should not push this point at the moment.
+So he made his way down to the engine room. He found Lt. Wayne still there
+silently watching Cole work. Their silence gave him the uneasy sense that
+they had been talking about him before he arrived. He asked Cole if she had
+been able to diagnose the problem. She said "No" turning to address him and
+seeming somewhat more resigned to their predicament.
 
-Cole went back to work. Wayne smiled at the Captain. The Captain returned
-the smile. Almost a minute passed. "I'm still waiting for the response from
-Command." Mackenzie said. Cole made a slight "hmm." Wayne said nothing. The
-Captain became aware of the usual hum of the ship as all of its systems
-tirelessly performed their duty with precision but without complaint and
-without exhaustion. Moving gases and liquids..pumped, signals. At least
-everything sounded in order, he thought.
+Cole then went back to work. Wayne smiled at the Captain. The Captain
+returned the smile. Almost a minute passed. "I'm still waiting for the
+response from Command." Mackenzie said. Cole made a slight "hmm." Wayne
+said nothing. In the silence, the Captain became aware of the constant hum
+of the ship as it pumped gases and liquids through its network of large and
+small channels and moved motors and valves in response to the constant
+changes in its environment. The ship did this with precision but without
+complaint and without exhaustion. At least everything sounded in order, he
+thought.
 
 "I guess the action and reaction are still not working." The Captain
 attempted. Wayne looked at him confused for a second. "What you said
 about.." The Captain started. "Right" Wayne interrupted. "Well I was just
-kidding." he continued. "Of course." said the captain.
+kidding." he continued. "Oh, of course." said the captain.
 
-"It's odd" the Captain started. "I can't recall exactly why that law works.
-I mean, I had no problem with high school physics of course, it is just
-that I seem to have forgotten the exact science behind the cause and
-effect." 
+After a minute or so, the Captain again started "It's odd" he said. "I
+can't recall exactly why that law works." he paused. "I mean, I had no
+problem with high school physics of course, it is just that I seem to have
+forgotten the exact science behind that specific...cause and effect." 
 
 Cole laughed to herself. She had become used to the Captain's almost
 embarrassingly sincere manner, but was he really admitting that he had
 launched himself into deep space over half a dozen times without ever once
-wondering how his ship got him there and back? And more importantly, why
-the hell did he care given that they had slightly more pressing problems at
-the moment. "It is a law of physics." Cole responded bluntly over her work
-as if this were enough to settle the question. Revealing exasperation in
-her voice.
+wondering how his ship got him there and back? And then feeling more
+exasperated, why the hell did he care given that they had slightly more
+pressing problems at the moment. "It is a law of physics." Cole responded
+bluntly over her work and revealing the exasperation she felt in her voice.
 
 "Right." The captain paused. And here is where he ignored the voice that
 usually guided him around the potential pitfalls of human interaction. "But
-that does not really answer the question." "To put it bluntly, There
-appears no connection between the one object's action and the second
-object's reaction."  He then added, "A law itself is not a reason." Wayne,
-calling on his own memory of physics class said, "Well, it is like a cannon
-and a cannon ball. When the cannon is fired, the cannon ball is projected
-out of the cannon, but the cannon also moves backward. It recoils. The
-rocket..." "Yes. I know." The Captain interrupted. "But that does not
-explain why." Wayne, not sure himself, just said. "Huh, well I guess you
-have a point."
+that does not really answer the question. To put it bluntly, I can see no
+connection between the one object's action and the second object's
+reaction."  He then added, "A law itself is not a reason." Wayne, calling
+on his own memory of physics class said, "Well, it is like a cannon and a
+cannon ball. When the cannon is fired, the cannon ball is projected out of
+the cannon, but the cannon also moves backward. It recoils. The rocket..."
+"Yes. I know." The Captain interrupted. "But that does not explain why."
+Wayne, not sure himself, just shrugged his shoulders and said. "Huh, well I
+guess you have a point."
 
-They both looked at Cole who just shook her head and said, "How am I
-supposed to know." gritting teeth?
+They both looked at Cole who had turned to witness this exchange. She just
+shook her head and turning back to her work added, "How am I supposed to
+know." 
 
-At that moment, the whole ship rocked and groaned slightly and a hum that
-had played constant in the background became quiet. "What was that noise?"
-asked the Captain.  "That noise *was* the sound of our propulsion system
-which just completely shut down." "What happened?" asked the Captain. No
-one answered. Then Wayne said, "Maybe we lost faith." "What?" replied the
-captain.  "Maybe we doubted Newton's law right out of existence." "That's
-nonsense" said the captain in a puzzled tone. "Maybe" replied Wayne, "But
-for the moment it is the best answer I've got." Everyone floated in
-silence.
+At that moment, the whole ship rocked and groaned slightly and the whine of
+the engine that had played constant in the background became quiet. "What
+was that noise?" asked the Captain.  "That noise *was* the sound of our
+propulsion system working and which has just completely shut down." "What
+happened?" asked the Captain. No one answered. Then Wayne said, "Maybe we
+lost faith." "What?" replied the captain.  "Maybe we doubted Newton's law
+right out of existence." Everyone just floated in silence.
 
 A full shutdown in space was bad, very bad. And they weren't just in space,
-but 2.9 million miles from home. There was no concern about their reaching
+but 200 million miles from home. There was no concern about their reaching
 Earth. They were headed straight for Earth, but at their present speed
 without acceleration, their spaceship would reach Earth in about 25 years
 or 24 years after their oxygen was expected to run out. They would become
@@ -286,61 +286,129 @@ the Captain, there was no question about who would be deciding their next
 course of action.
 
 "Over the next 36 hours we need to run a strip down diagnostic of the
-entire engine. Wherever this gremlin is hiding Hard to hide. Assuming we
-find the problem and we have the necessary materials to make the repair, we
-will then try to make the repair as soon as possible. I am going to need
-help so we will run split shifts of eight hours on four hours off." Leaving
-nothing to chance, or human intuition, Command had determined that split
-shifts which included sleep were more efficient than teams working extended
-hours without sleep. Even when time was critical. "Agreed?" she nodded
-toward the captain. "Yes, of course." the captain responded in a way that
-he hoped he had retained authority. "Wayne and I will take the first
-shift." 
+entire engine and find where this gremlin is hiding. This is going to
+require all of us, so I suggest we run two-man split shifts of eight hours
+on and four hours off." Leaving nothing to chance, or human intuition,
+Command had determined that split shifts which included sleep were more
+efficient than full teams working extended hours without sleep. Even when
+time was critical.  "Agreed?" she nodded toward the captain. "Yes, of
+course." the captain responded in a way that he hoped he had retained
+authority.  "Wayne and I will take the first shift." 
 
 The Captain headed back up to his quarters. He would get some sleep. He was
 concerned about their predicament but not enough to lose sleep. If there
 was one thing that Command got right, it was identifying and selecting
 astronauts who stayed cool under pressure. He could think about the danger
-they faced, but he could not get himself worked up about it. And this only
+they faced, but he could not get himself worked up about it. This only
 added to his sense that maybe there was something wrong with him. Other
-things bothered him, just not this. His mind replayed his last conversation
-with his crew. He carefully rewrote his part until the scene ended with him
-sounding satisfyingly assertive. 
+things bothered him, just not danger. His mind replayed his last
+conversation with his crew. He carefully rewrote his part until the scene
+ended with him sounding more assertive. 
 
 Cole took a deep breath. When it came to danger, she preferred the known to
 the unknown, and from her perspective, most of life, with the exception of
 these sorts of moments, consisted of perpetual unknown danger. Now that she
-had accepted the gravity of the problem, there was merely the process of
+had accepted the gravity of their problem, there was merely the process of
 following the steps required to address it. They would methodically work
 through the engine control system at a fine enough scale, that no matter
-how small whatever gremlin was hiding in there would be revealed.
+how small a gremlin was hiding in there, she would find it. 
 
 Wayne floated waiting for instruction. Cole handed him a simple current
 meter and had him test and record readings across over a hundred points
 inside a large panel that she had exposed. Basic mechanical and electrical
-training was required for all deep space crew members. At first they did
-not speak as Wayne became familiar with his new task.
+training was required for all deep space crew members. 
 
-"He's a bit of an odd bird." Wayne suggested to Cole. "Hmm" responded Cole
-immersed in her own task. A few minutes later Wayne asked, "So what do you
-think of him?" "What?" Cole responded clearly indicating that she had not
-been paying attention to him. "Captain MacKenzie?" she added wondering
-where this was going. "I don't know. He does his job. I do mine." she
-paused, "He has always gotten me back to Earth." recognizing the irony as
-she spoke.
+At first they did not speak as Wayne became familiar with his new task.
+After about twenty minutes, Wayne made the observation "He's a bit of an
+odd bird." "Hmm" responded Cole immersed in her own task. A few minutes
+later Wayne asked, "So what do you think of him?" "What?" Cole responded
+clearly indicating that she had not been paying attention to him. "Captain
+MacKenzie?" she added wondering where this was going. "I don't know. He
+does his job. I do mine." she paused, "He has always gotten me back to
+Earth." Her voice trailed off as she recognized the irony of her response.
 
+Wayne finished his task. Cole set him next to carefully disassembling a
+complicated manifold while she worked deep a gas compression cavity. "Does
+he ever laugh at your jokes?" Wayne asked. "I don't make jokes." Cole said
+deadpan and then chuckled. "Or maybe you are just not very funny." she
+added with wry smile that Wayne could not see. "He just seems like he
+doesn't get things." Wayne continued. "What does he not get?" "Like what I
+said about Newton's law was clearly sarcastic." "I did not think that was
+very funny." Cole responded this time without a hint sarcasm. "Sure" Wayne
+acknowledged, "but you got the intent." "Yeah." she said now completely
+hidden from Wayne's view in the compression cavity. "He did not seem to
+understand it at all." "So what are you getting at?" She responded as she
+wiped sweat from her brow with towel to prevent the droplets from floating
+off in space. "Just that he is odd." "We are all odd." "Yeah but..."
+Wayne's voice trailed off as he focused on removing a particularly
+difficult bolt.
 
+They worked quietly for another half hour. "Have you heard about Crylon 3?"
+Wayne asked. "I know about Crylon." she said. "The robots." Wayne
+confirmed.  "Yeah. They are pretty impressive. I saw the demos. Their
+motion is almost human-like. Though I thought the latest model was Crylon
+2. Ouch!" She exclaimed as banged her hand hard trying to replace a heavy
+plate. Cole paused for a moment to nurse her hand. "The rumor is that they
+have a series 3." Wayne went on. "You mean in secret?" Cole was still
+holding her hand and looking at Wayne. "Yeah" Wayne said taking a minute to
+look up from his task. "Why would they do that?" Cole asked clearly
+skeptical and returning to the chamber. "I don't know but Crylon 2 was
+released five years ago and they have not produced an upgrade since. They
+say that Crylon 3 is human, like Turing level." 
 
+Cole stopped what she was doing. "How did you pass the psych test?" She
+snorted still out of view of Wayne. "It is hard to find scientist willing
+to make this trip." Wayne admitted. "There are so many good jobs
+Earth-side?" she asked sarcastically. "Well, we are not as crazy you space
+jocks." "Hey, I'm an engineer."  "Well, to be fair, you repair
+engineering." said Wayne. "Careful" Cole said in way that Wayne felt she
+meant it.
 
-If he were a robot he would understand physics. Would he need to look
-things up. How else to be human. But to want to be human. What is more
+"You have to admit, they have made amazing advancements in bio-prosthetics
+in the past five years." Wayne continued. "Sure, but what I don't get
+making it secret." "Maybe they are afraid of public reaction. There has
+been a lot of push back against automation in general recently. We've
+finally reached that tipping point where fewer jobs are being created by
+automation than are being replaced." "Yeah, I've been hearing that. I am
+glad they are still sending humans into space. Got it." she said as she
+replaced particularly difficult electrical connection that while not the
+cause of their problem needed to be repaired.
+
+"Okay, I'll bite. Why keep it a secret?" I don't know. Maybe they are
+afraid of the :
+
+They say that Cyrlon 5 is indistinguishable from humans. So maybe they have
+released them and we just don't know it. You know how there was so much
+talk a few years ago about robots taking over jobs. We had reached a
+tipping point. Well I don't hear much about it now. Laws were put in place
+to protect human jobs. Maybe.
+
+You sure you passed the test? Maybe you are Crylon 5. Maybe the captain is
+Crylon 5.
+
+So you think the captain is crylon 5. Did you really pass the psyc test?
+
+so laughter is your Turing test.
+
+I have memorized more of this ship's OP than he has. If he were a robot he
+would never need to look anything up.  Yes but why not be as efficient as a
+human. That is the goal. Also, there is the risk of seeming not human. Is
+that the goal for robotics? Aren't they supposed to be better. Maybe the
+price of humanness is a sacrifice of some of the qualities that we think of
+as traditionally robotic.
+
+If he were a robot he would understand physics. It was weird. 
+Would he need to look
+things up. How else to be human.  But to want to be human. What is more
 human than to regret our adaquit to want to be a machine. Do you want to be
 a machine? No.
-In the back of everyone's mind was the need to resolve the problem in 48
-hours. This flight disable survival window. While it varried for every
-mission, it was generally accepted rule of thumb that a flight could delay
-its schedule no more than 48 hours. So all serious problems had to be
-resolved in that time frame. 
+
+
+don;t we all want to be human. I want to get our asses back to Earth. Or
+else there won't be any humans left on this ship. 
+
+
+Maybe you are crylon 5.
 
 As the worked reminded Wayne of watching his father work on transports back
 home when he was young. His father never asked him to help and he had
@@ -355,19 +423,6 @@ long-term flights was not to disparage another crew member behind their
 back, but it was rarel followed. Cole responded with only a mild "yeah".
 Wayne than asked whether she had ever spent time with him outside of
 flight, what she knew about his family... 
-
-After three hours of work they stopped to wait for their last test to
-complete. Each of them broke out a small portion of rations. This was
-against the emegency rationing plan but they knew that staying alert and
-well-fed during the process was more important. There was something that
-bugged Wayne about the captain. Something that did not seem right and he
-wanted Cole to share his feeling. He wanted to confirm his sense of the
-world. Finally he asked, "Do you think Captain Mckenzie is an android?"
-Okay, what I mean is he an android?
-
-This stopped Cole. She had not enjoyed his questions about the Captain and
-she did not enjoy his. "What do you mean she asked?" as if the question
-itself were absurd. 
 
 Over the past thirty years, robots had taken on more complex and human-like
 tasks, but to this point they were still mechanical and biomechanical
@@ -401,68 +456,6 @@ he bringing this all up now, she thought. Changing the subject she said,
 "We need to start checking the forward compression system." Wayne followed
 Cole provided assistance.
 
-An hour later, Capt. Mackenzie came into the engine room. Twelve hours has
-passed since complete engine shut down. The warning lights continued to
-flash. The fourty eight hour clock showed 36 hours left. So far they had
-all remained calm. Mackenzie asked if there was any news? Cole looked over
-and was tempted to say, "Only that Wayne here thinks you are a robot." But
-instead said, "We have completed base tests and have found no fault. We are
-now just finishing our tests on the forward compression." She gave no sign
-of hope because there was no sign to give. But she remained confident that
-a solution would be found and in time. The captain looked over at Wayne who
-returned his glance without saying anything. The captain then asked Wayne
-if he had any thoughts about the matter. Wayne said that he did not.
-
-The capt. said he could be reached if they needed him. 
-
-Suddenly Cole stopped. "Test that again." she said. "What do you mean?"
-"Hold the probe next to the heat section." "This is failing." "What does
-htta mean." :w
-
-
-
-
-
-
-
-
-
-
-
-
-
-Back on the bridge, Captain Mackenzie composed a message describing their
-situation and sent it off to mission control. Looking out, he could imagine
-the message making its way safely back to Earth in a matter of minutes. He
-wondered how their situation would fair under the scrutiny of Space
-Control's cost benefit analysts. Would they advise mission control to cut
-their losses? What could mission control do anyway?
-
-Twenty two hours later, the engine room looked more like a repair shop with
-engine parts everywhere. Under the premise of desparation, Cole had
-dismanteled most of the engine and was methodically testing each individual
-section before moving on to the next.  Wayne and Cole spoke very little.
-Instead Cole addressed the engine directly, quietly continuing her
-one-sided debate. Her only conversation with Wayne involved instructing him
-to move an engine part or help with anything that required two hands.
-
-
-
-
-While moving a large cooling pipe, Wayne without realizing it, hit Cole in the
-head.  Cole who was standing closely behind him turned and pushed Wayne sharply
-from behind, saying "Watch where you're going." "Hey, why did you hit me?" said
-Wayne. "You hit me first." muttered Cole who had turned back to her task. Then
-cracking a smile for the first time in more than a day, she said, "For every
-action, there is an equal and opposite reaction." Wayne stood their rubbing his
-shoulder and said, "Yes, but you hit me harder." Cole now turning to face Wayne
-said, "Not possible, that would violate the laws of physics." "Assuming they
-still apply." responded Wayne. 
-
-Both Cole and Wayne sat down after working for past eighteen hours straight. Wayne
-opened a package of the calorie bars that they had already begun to ration.  Cole
-asked, "Do you really think we've passed into some mysterious realm beyond the reach
-of Newton?" Wayne, just gave a short laugh. 
 
 "Every action" Cole mused. "Does that mean that mean that every time I scratch my
 butt, there is someone else un-scratching their butt?" "You scratch your butt?" asked
@@ -478,11 +471,3 @@ action and reaction are two distinct events" he added. "Does the gas leaving the
 cause the ship to go forward or does the ship going forward cause the gas to leave
 the ship?" "Sometimes there are actions and they are equal and opposite." said Cole.
 
-"Well it seems that we are now even farther from solving the problem." said
-Mackenzie. "What problem are you referring to, sir?" asked Cole. Mackenzie flustered
-said, "Well, I think a better understanding of propulsion can only be to our
-advantage." :wq
-:wq
-
-The captain checked his watch and contemplated how long it would keep working long
-after lifesuport and run out.  
