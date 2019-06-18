@@ -1,13 +1,11 @@
-Superhero: 11267
-Magic: 6100
-Pirates: 13516
-Falling: 12500
-Love: 6900
-King: 2692
+Superhero: 11574
+Magic: 6641
+Pirates: 13856
+Falling: 12637
+Love: 6982
+King: 2736
+Adonis: 3114
 Blinkers: 899
 
+Total 58439
 
-Total 53876
-Need: ~900
-
-Goal: 55000
