@@ -47,10 +47,11 @@ always cost them more money.
 
 There was also the problem of corporate security personal or mercenaries
 depending on your point of view who frequently harassed and boarded haulers
-and sometimes worse. While weapons continued to advance, the mercenary
+and sometimes worse. While technology continued to advance, the mercenary
 himself remained in his living breathing form and was still more
 effectively deterred by equally living breathing forms.  No hauler would
-say they liked mercenaries but their existence prolonged job security.
+say they liked mercenaries but they had to admit that their existence
+prolonged job security.
 
 A few hours later she sat strapped in front of a plate-sized box of
 something that tasted like, just what it looked like, brown, hard and wet.
@@ -66,45 +67,46 @@ All haulers carried extra freight of some kind while they worked contract
 jobs and the extra freight generally paid well. Getting items and people
 transported through commercial shuttle services was fairly easy. You needed
 a special reason to hire a hauler and Candice, like most haulers, did not
-ask questions.
+ask questionsxx.
 
 "I haven't seen him since for the past twelve hours. He's probably still
 stoned or drunk." she said. "I don't understand how anyone can drink
-below-neutral." Charles shook his head. "I call tell you, I would be puking
-after one beer." he added. "Oh, you get used to it." Candice smiled to
-herself. The only reason she had taken up smoking was to avoid drinking, a
-bad habit that of the two had gotten her into more immediate trouble.
+sub-g." Charles shook his head. "I call tell you, I would be puking after
+one beer." he added. "Oh, you get used to it." Candice smiled to herself.
+The only reason she had taken up smoking was to avoid drinking, a bad habit
+that of the two had gotten her intoxx more immediate trouble.
 
 "What's his story anyway?" Charles asked, referring to Dale. And then
 before Candice could open her mouth, he raised his hand and said, "I know,
 know, don't ask, don't tell. The sacred code of the hauler. But come on
 aren't you interested. I mean the guy looks like some old dead hippie, like
-your typical washed out colonist except they don't have money for this sort
-of flight." Charles again raised his hand as if to prevent Candice from
-speaking. "Not that I know what hes paying you."
+your typical washed out colonist except a colonist wouldn't have money for
+this sort of flight." Charles again raised his hand as if to prevent
+Candice from speaking. "Not that I know what hes paying you."
 
 The colonist were the first to arrive in space years before the mining
 companies that now ran everything. The colonies were billed as everything
 from experiments in alternative living to a critical step in forging
 mankind's path into the universe. A step that was commonly perceived as
-ultimately necessary as mankind did everything it could to render its
-present planet inhospitable. Like a person who decides to move because
-their house is too messy.
+necessary as mankind did everything it could to render its present planet
+inhospitable. To Candice it was like her mother who would buy new can
+opener when she could not find the one they already had. But who was she to
+solve the world's problems...really who was anyone.
 
-Though mostly it was just a need for the dominate nations to exercise their
-dominance. Who knew what exactly motivated the colonist themselves to leave
-a planet to which their ancestors has spent thousands of generations
-adapting. And all colonist tickets were one-way. It was part of the deal.
-Nations were not interested in ferrying people back and forth. They wanted
-to make their mark in the solar system not host a vacation spot. Candice
-figured you had to be pretty unhappy with you life on Earth to make that
-sort of leap. But then here she was eight years later still in space.
+Though mostly it was just a desire for nations to exercise their dominance.
+Who knew what exactly motivated the colonist themselves to leave a planet
+to which their ancestors has spent thousands of generations adapting. And
+all colonist tickets were one-way. It was part of the deal.  Nations were
+not interested in ferrying people back and forth. They wanted to make their
+mark in the solar system not host a vacation spot. Candice figured you had
+to be pretty unhappy with you life on Earth to make that sort of leap. But
+then here she was eight years later still in space.
 
 She had left Earth shortly after her mother died. Her father had left home
 when she was six and she had not seen him since. She had started flying
 when she joined the military. She did not like the military, but she as a
-good low earth pilot. She joined just to get training. She was close to her
-mom. She left and worked for a couple of commercial firms. 
+good atmospheric pilot. She joined just to get training. She was close to
+her mom. She left and worked for a couple of commercial firms. 
 
 Machines could still not adjust to the variations of the real world. The
 analogs could but those had been banned after the chaos. The world was
@@ -159,9 +161,9 @@ they wanted to avoid upsetting, or maybe the just wanted to give the
 impression of being polite. More likely the later she thought. 
 
 "Request granted" she gave the expected response but made little attempt to
-hide her annoyance. It was all a pretence of acceptance as if this were all
-voluntary in case they were every hauled into a court of law, but what
-court of law existed here.
+give it any credence?  hide her annoyance. It was all a pretence of
+acceptance as if this were all voluntary in case they were every hauled
+into a court of law, but what court of law existed here.
 
 The soldier turned and waved in two more soldiers behind him.  "Okay, get
 going and lets make it quick." Giving a sense that even he had lost
@@ -179,9 +181,9 @@ Charles started to voice to protest but then stopped himself. The soldier
 said, "No mam, go right ahead."
 
 She lit a cigarette from her pack and watched as the solder stared straight
-ahead. She wondered what was going through that head of his. Was he
-thinking about what he might have for dinner. They certainly had better
-meals on troop ships than she had.
+ahead. She wondered what was going through that head of his. Was he as
+bored with exercise as she was, was he thinking about what he might have
+for dinner. They certainly had better meals on troop ships than she had.
 
 She looked over a Charles. Poor Charles. He was okay as long as he felt in
 control and right now he clearly did not feel in control.
@@ -765,4 +767,131 @@ address? Stock prediction? A sorting task. Playing a game? Reading the
 paper. Self driving machines. 
 
 Okay so they find these old textbooks on analog electronics and use these
-to make the new machines. I like that.
+to make the new machines. I like that. 
+
+*******************
+
+"You coming out tonight?" Carolyn asked. It was Friday and you were
+supposed to go out. It was just part of the fabric of life. 
+
+Allan was one of a hundred programmers in section D. They sat in single
+room in a perfect grid of ten by ten. Starting from lower left, Allan
+pictured himself at the coordinate pair (5, 2). And although desk
+assignments were supposedly random, Allan felt he was located
+appropriately. 
+
+"Sure" he said, though he wasn't sure and he knew Carolyn was only asking
+him because she felt sorry for him, but not sorry enough to do much more
+than get him to out once in a while with their crew. Their crew consisted
+of seven or eight of the programmers in section D that hung out together.
+There were a bunch of different crews in the section, but if there were
+differences between them, these differences were lost on Allan. He was only
+part of this crew because of Carolyn.
+
+He had met Carolyn when he first started working for Nervex. It was his
+first job out code school. She had been assigned to him as his mentor. It
+had bothered him that she was two years younger than him. She was just one
+of those kids that advanced quickly, or he was just one of those kids that
+advanced slowly. Either way, he was getting used to it.
+
+It was her job to review his code for the first few months. The reviews
+were unannounced and he dreaded finding her staring over his shoulder. He
+was not sure if he was supposed to keep typing while she watched, but he
+always just froze. He would then try to explain what he was working on. She
+would just say "hmm" while she looked at the screen. He was never sure if
+she was actually listening to him.
+
+It wasn't that his code did not work, it usually did. It was just that his
+code was ugly and no matter how hard he tried, there seemed to be nothing
+he could do about it. She would advise him to be more consistent with his
+spacing or variable names. It was his tendency to start with a specific
+pattern for spacing or variables names and then allow this pattern to
+slowly evolve through his code so that by the end no single pattern could
+be detected.
+
+But these were just details, simple grammatical mistakes whose correction
+would do nothing to repair the more fundamental problem. He could also tell
+that Carolyn felt frustrated as well. For all her advice, she could not
+convey to him an understanding of how to create what she wanted him to
+create which was beauty. Sometimes she would just resort to showing him a
+sample of her code next to his. It was a contrast that Allan felt even
+someone who had never written a line of code in their life could easily
+see.
+
+In the end she usually just sighed patted him on the back reassuringly and
+said, that he would be fine and that it would just take time. And then she
+just stopped reviewing his code. Since his code worked, how could it
+possibly matter? But it did matter, to him. He felt there must be some
+cosmic consequence for his little pieces of ugly code sitting in the giant
+patchwork that collectively made up the portion of the program his section
+worked on. If beauty could exist, he thought, than it could only exist for
+a reason.
+
+That evening after having a beer with the crew, Allan sat on the couch in
+the apartment he shared with his brother. His brother, Maynard sat next to
+him reading a comic book, one of the antiquities that Allan collected.
+Maynard was a few years older than Allan and slow, or at least slower than
+Allan. He was a rarity that had escaped genetic screening. 
+
+"Did you talk to Kenny today?" Allan asked. Maynard kept reading. "Maynard"
+Allan said, "Did you talk to him?" "No. He was busy." Maynard said without
+turning. Maynard worked for Kenny in a small store that sold antiquities.
+It was hard to find jobs that did not require technical skills which was
+one of the excuses for genetic screening. But the desire for human
+interaction survived in little pockets here and there and Kenny's store was
+one of them.
+
+Allan sat eye level with the record and watched as the needle slowly rode
+up and down over the subtle warps. It was only one of five records he owned
+and he played them so much he could have distinguished each one from its
+imperfections. The phonograph, amplifier, speakers and five records, had
+cost him one months pay, but he had no regrets about the purchase.
+
+The room was filled with antique technology, most of which he had bought in
+Kenny's store. Along with some audio equipment there was an oscilloscope, a
+wave form generator, a stop light and television set and lots of other
+small items, many of which Allan had yet to determine their original
+function.
+
+"Are you going to ask him?" Allan asked his brother. "Sure." Maynard said
+still reading. Allan had wanted Maynard to ask Kenny for a raise. Allan had
+become from friends with Kenny over the years, but still felt that he was
+taking advantage of Maynard. Plus it was not like they were living in
+luxury.
+
+He had even invited Carolyn over once to visit, but she said all the right
+things, that is so cool wow, but never really got it. Things now worked
+better. It was more than just cool to him. Why would you list. But he felt
+that maybe Carolyn just did not feel comfortable around his brother. What
+was the point of music with all the imperfections, but the imperfections
+were all that mattered to Allan, though he did not tell this to Carolyn.
+
+Jeb, his brother liked music. Allan had studied art in school but was not
+considered talented enough to progress. He had done fairly well on the
+programming exam and needed to consider his brother so had gone to code
+school.
+
+For the past year, he had worked on physical representations of the code he
+wrote at work. Initially, he just wanted to replicate a single program
+using older electronics. It would be a physical representation of the code.
+At first this was just an artistic endeavor. The digital logic gates were
+still available, but then something felt wrong about the project. He wanted
+it to be better. He wanted it to be more perfect. In the way that his
+record was more perfect than the digital version though only by being more
+imperfect.
+
+The digital world was simple. Everything was either true or false, right or
+wrong. A crude mirror of the real world, but one that could be refined
+enough to make the reflection almost real. Imagine and image that is purely
+black and white, no scales of grey. Any point on the image.  Imagine a
+curve. He drew one. Imagine, I use ten steps to approximate that curve. Now
+more and more. At some point the eye cannot see the steps. But only because
+the eye does not want to see the steps. We are machines that desperately
+want to see curves. Think of an image.
+
+
+
+
+k
+ 
+
