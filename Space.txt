@@ -327,7 +327,272 @@ excuse.
 
 
 
-H:e started talking to the machine. It was a machine. It was logical
+*******************
+
+"You coming out tonight?" Carolyn asked Allan. It was Friday and you were
+supposed to go out. It was just part of the fabric of life. 
+
+Allan was one of a hundred programmers in section D. The programmers in his
+section sat in single room and in a perfect grid of ten by ten. Starting
+from lower left, Allan pictured himself at the coordinate pair (5, 2). And
+although desk assignments were supposedly random, Allan felt he was located
+appropriately. 
+
+"Sure" he said, though he wasn't sure and he knew Carolyn was only asking
+him because she felt sorry for him, but not sorry enough to do much more
+than get him to out once in a while with their crew. Their crew consisted
+of seven or eight of the programmers in section D that hung out together.
+There were a bunch of different social groups in the section, but if there
+were differences between them, they were lost on Allan. His only reason for
+being part of this group was Carolyn. 
+
+Carolyn was one of the first people he met when he first started working
+for Nervex. It was his first job out code school. She had been assigned to
+him as his mentor. It had initially bothered him that she was two years
+younger than him, but she was just one of those kids that advanced quickly,
+or he was just one of those kids that advanced slowly. Either way, he had
+gotten used to it.
+
+It was her job to review his code for the first few months. The reviews
+were unannounced and he dreaded finding her staring over his shoulder. He
+was not sure if he was supposed to keep typing while she watched, but he
+always just froze. He would then try to explain what he was working on. She
+would just say "hmm" while she looked at the screen, and he was never sure if
+she was actually listening to him.
+
+It wasn't that his code did not work, it usually did. It was just that his
+code was ugly and no matter how hard he tried, there seemed to be nothing
+he could do about it. She would advise him to be more consistent with his
+spacing or variable names. It was his tendency to start with a certain
+pattern for spacing or variables names and then allow this pattern to
+slowly evolve through his code so that by the end no single pattern could
+be detected.
+
+But these were just details. They were simple grammatical mistakes whose
+correction would do nothing to repair the more fundamental problem. He
+could also tell that Carolyn felt frustrated as well. For all her advice,
+she could not convey to him an understanding of how to create what she
+wanted him to create which was beauty. Sometimes she would just resort to
+showing him a sample of her own code next to his. It was a contrast that
+Allan felt even someone who had never written a line of code in their life
+could easily see.
+
+In the end she usually just sighed, patted him on the back reassuringly and
+said, that he would be fine and that it would just take time. And then
+after a few months the reviews just stopped. His code worked, so how could
+it possibly matter? But it did matter...to him at least. He felt there must
+be some cosmic consequence for the little pieces of ugly code that he
+contributed to the giant patchwork that collectively made up the portion of
+the program his section worked on. If beauty could exist, he thought, than
+it could only exist for a reason.
+
+That evening after having a beer with the gang, Allan sat on the couch in
+the apartment he shared with his brother. His brother, Maynard sat next to
+him reading a comic book. Comic books were one of the antiquities that
+Allan collected, but these were mostly just for Maynard.  Maynard was a few
+years older than Allan and slow, or at least slower than Allan. Maynard was
+a rarity that had escaped genetic screening. 
+
+"Did you talk to Kenny today?" Allan asked. Maynard kept reading. "Maynard"
+Allan said, "Did you talk to him?" "No. He was busy." Maynard said without
+turning. Maynard worked for Kenny in a small store that sold antiquities.
+It was hard to find jobs that did not require certain technical skills
+which was one of the excuses for the advent of genetic screening. But the
+desire for unscheduled human interaction still survived in little pockets
+here and there and Kenny's store was one of them.
+
+Sitting on the couch Allan stared eye level at the thin side of the record.
+He watched as the needle slowly rode up and down over the subtle warps. It
+was only one of five records he owned and he played them so much he could
+have distinguished each one from its imperfections alone. The phonograph,
+amplifier, speakers and five records, had cost him one months pay, and he
+had no regrets about the purchase.
+
+The living room was filled with antique technology, most of which he had
+bought in Kenny's store. Along with some audio equipment there was an
+oscilloscope, a wave form generator, a stop light and television set and
+lots of other small items, many of which Allan had yet to determine their
+original function.
+
+"Are you going to ask him?" Allan asked his brother. "Sure." Maynard said
+still reading. Allan had wanted Maynard to ask Kenny for a raise. Allan had
+met Kenny when Maynard first got the job and they had become friends over
+the years, but still felt that Kenny was taking advantage of Maynard. It
+was not that Kenny could pay him that much anyway, but any bit helped. They
+were not exactly living in luxury.
+
+At first, Allan just collected the pieces of technology because they
+intrigued him. He had even invited Carolyn over once to see the phonograph.
+She had said it was so cool, but then quickly lost interest. They had then
+gotten into a small argument about why anyone would have more than a
+passing interest in technology that Carolyn viewed as imperfect. But to
+Allen it was the imperfections that mattered though he had failed to make a
+convincing argument as to why this was so, either to Carolyn or himself.
+She had also seemed uncomfortable around his brother and he felt he had
+made a mistake by not telling her about him before hand. 
+
+Mostly Allan just tinkered with the old technology trying to return it to
+is original working state, but after Carolyn's visit he began to use the
+parts he found to make his own creations. His first big project was to
+build a physical representation of the code he wrote at work. His plan was
+to create a physical representation of the code using just hardware, a
+single physical box that used logic gates instead of written code to
+perform an identical function.
+
+He told himself that it was just a challenge or maybe an artistic endeavor.
+He just wanted to prove it could be done. In addition to ancient
+electronics Kenny also had a larges store of electronic components. Allan
+got Maynard to help with the soldering and the construction of a crude
+circuit board. Maynard liked this sort of work, who in addition to reading
+comic books also enjoyed constructing vintage small plastic models that
+Allan found for him.
+
+The finished project was housed in a custom aluminum case. There were
+simple buttons to represent input and a few lights to represent the output.
+When Allan brought the finished project to work his colleagues were
+intrigued. But their interest was as fleeting as Carolyn's interest in the
+record player and Allan quickly felt embarrassed. Unlike the record player,
+the device clearly showed no advantage over code. It was simply a crude
+facsimile of the hard clean logic that Allan spent his days writing. He was
+frustrated with himself for even thinking they would like it and was sure
+that they were making fun of him behind his back for the same reason.
+
+On Saturday, Allan sat on a stool in the cool of Kenny's workshop below the
+main floor of his store. It was poorly but warmly lit by incandescent light
+bulbs, of which Kenny seemed have a store that would last his lifetime.
+There were racks and bins of all sorts of equipment that gave the space an
+even more cluttered feel than the racks and bins on the floor above in the
+store's public space.
+
+Kenny was rummaging around in a carton of equipment that he had just
+received. "Ah...here." Allan heard Kenny exclaim behind his workbench.
+Kenny smiled and handed Allan a thick paperback book "The Art and Science
+of Operational Amplifiers by Gerard Gund." Kenny said. I have been looking
+for this book for years. My father had a copy that was even more worn than
+this one. He flipped through the pages.
+
+What is this? This is a bible of analog electronics. What is that? It is
+what you kids try to imitate with all your digital gadgets. Allan had never
+heard of analog electronics and had only heard the word digital used a
+handful of times in all of his training. Since all electronics had become
+digital, the use of the word had become redundant.
+
+Does your record player work with ones and zeros. Allan knew that his
+record player used a different sort of technology and he was capable of
+keeping it running or fixing it by repairing wires or connections, but he
+admitted that he really did not know how it worked. Mainly because he was
+afraid to even try. It was all sort of mysterious and that was okay. You
+spent a months salary on that record player and you were never once curious
+how it worked.
+
+Kenny's own father had been audio technician. He told him he had worked for
+all sorts of famous musicians that Allan had never heard of. And had done
+the sound for huge concerts. He told stories of him tracing noise in a
+sound system to lose wire metal cabinet rat chew... The stories always
+sounded wild chaotic and the solutions nothing more than alchemy. Sometimes
+solutions were found that no one could explain. A musician knew that if he
+stayed on the left of each other the system would work appropriately.
+
+Analog electronics, Kenny said, represent the real world. Look he drew a
+picture of a long wavy line on a piece of paper. This is represents some
+tiny piece of music, let's say a note or two notes. It is hard to reproduce
+this line accurately. No matter how perfect the machine, there is always
+some error. Imagine trying to copy the line with tracing paper. Somewhere
+you will go wrong and it is impossible to say exactly where. This is the
+problem. Man does not like the unknown. It scares him. He is willing to
+accept inaccuracy as long as he controls the inaccuracy and thus was born
+the digital age.  
+
+Below the curve he drew stair case that lined up with the curve and had
+exactly eight steps. Here is the curve broken down into eight possible
+steps. So instead of the infinite possible levels of the curve you get only
+eight possible levels, each of which can be produced with perfection. You
+are either on step five or six, there is no in between. Is something lost?
+Yes, of course, all of the detail between five and six. Does this matter?
+It all depends on how many steps you make. If you were to play your Gould
+edition of The Well Tempered Clavier converted into eight steps or eight
+bits it would sound awful. But now imagine sixteen steps or lets say 65,536
+steps. 
+
+Can you tell the difference? Asked Allan Some would say impossible, but it
+doesn't matter because it is there. 
+
+Okay, but does this all have to do with this book. Op amps are the building
+blocks of analog electronics just as the transistor is the building block
+of digital electronics. A transistor is capable of infinite states has two
+possible states, either on or off. The op-amp can produce an infinite
+number of states and so is inherently more perfect than any possible
+digital system. 
+
+Except you said that it is not perfect, that it is prone to error. Sure and
+that is part of its perfection. 
+
+Allan looked at Kenny and chuckled. Kenny with his long white hair tied in
+a pony tail. His fading shirt with buttons and collar. He always looked a
+bit like someone playing a part, but he played it so well, so consistently
+that you were drawn to take it as real. Allan never knew quite what to make
+of his old stories and his opinionated lectures.
+
+"Just read it." Kenny said. Allan looked back at the book. "This one is
+free." he added.
+
+Allan spent the six weeks reading the book. At first it was difficult
+because he tried to fit the content with the logic of everything he had
+been taught. But slowly he learned to let go. He consulted with Kenny who
+had learned this as a child from his father. After a while it became second
+nature and soon he felt he understood it far better than his lessons in
+programming. Where he had never felt more than adequate, as if he were just
+going through the motions.
+
+Work had become more difficult. Not that the work itself was harder in fact
+it never seemed to vary in difficulty. Each week or so he was assigned a
+task to complete which he did with his usual level of adequacy. It was just
+harder to push himself to get the job done, but externally there were no
+obvious changes. Carolyn had been promoted to a higher level section. She
+still came back to visit and hang out with the gang, but that would slowly
+change. Allan remained in his seat while new faces appeared around him.
+
+That night in the room they shared. Hey Mayno. Carolyn got promoted. That's
+nice. No its not nice. I mean it is nice for her, but she is younger than
+me and I feel like I am never going to move forward. Oh. I am glad you got
+the raise. Me too. Good night Mayno. Good night Allan. 
+
+Allan began to experiment with analog circuits. His first project was to
+replicate one of the simple programs he worked on at work, essentially a
+analog version of the digital board that he and Maynard had built. The
+whole board was smaller and simpler, but he was to shy to bring this one
+into work. He instead showed it to Kenny. 
+
+Kenny said, it is fine, but it can't be modified. The digital is better for
+this application. This is not where the analog circuit shines. The analog
+circuit models the real world. It takes advantage of the real world. Why
+don't you build one. Because I don't care what the real world does. 
+
+
+Fast and accurate but not precise. Lets nature do the calculations.
+probablistic. Cells use noise to solve a problem. math is built into
+science.
+
+****************8
+
+Digital logic gates were still
+available, but then something felt wrong about the project. He wanted it to
+be better. He wanted it to be more perfect. In the way that his record was
+more perfect than the digital version though only by being more imperfect.
+ 
+The digital world was simple. Everything was either true or false, right or
+wrong. A crude mirror of the real world, but one that could be refined
+enough to make the reflection almost real. Imagine and image that is purely
+black and white, no scales of grey. Any point on the image.  Imagine a
+curve. He drew one. Imagine, I use ten steps to approximate that curve. Now
+more and more. At some point the eye cannot see the steps. But only because
+the eye does not want to see the steps. We are machines that desperately
+want to see curves. Think of an image.
+
+
+
+
+kH:e started talking to the machine. It was a machine. It was logical
 and yet it did behave that way, as if some lurking consciousness.  
 She could fix ships and he could drive. It really made no difference.
 You are not being rational. Why??? She knew that being out in space for
@@ -769,129 +1034,6 @@ paper. Self driving machines.
 Okay so they find these old textbooks on analog electronics and use these
 to make the new machines. I like that. 
 
-*******************
 
-"You coming out tonight?" Carolyn asked. It was Friday and you were
-supposed to go out. It was just part of the fabric of life. 
-
-Allan was one of a hundred programmers in section D. They sat in single
-room in a perfect grid of ten by ten. Starting from lower left, Allan
-pictured himself at the coordinate pair (5, 2). And although desk
-assignments were supposedly random, Allan felt he was located
-appropriately. 
-
-"Sure" he said, though he wasn't sure and he knew Carolyn was only asking
-him because she felt sorry for him, but not sorry enough to do much more
-than get him to out once in a while with their crew. Their crew consisted
-of seven or eight of the programmers in section D that hung out together.
-There were a bunch of different crews in the section, but if there were
-differences between them, these differences were lost on Allan. He was only
-part of this crew because of Carolyn.
-
-He had met Carolyn when he first started working for Nervex. It was his
-first job out code school. She had been assigned to him as his mentor. It
-had bothered him that she was two years younger than him. She was just one
-of those kids that advanced quickly, or he was just one of those kids that
-advanced slowly. Either way, he was getting used to it.
-
-It was her job to review his code for the first few months. The reviews
-were unannounced and he dreaded finding her staring over his shoulder. He
-was not sure if he was supposed to keep typing while she watched, but he
-always just froze. He would then try to explain what he was working on. She
-would just say "hmm" while she looked at the screen. He was never sure if
-she was actually listening to him.
-
-It wasn't that his code did not work, it usually did. It was just that his
-code was ugly and no matter how hard he tried, there seemed to be nothing
-he could do about it. She would advise him to be more consistent with his
-spacing or variable names. It was his tendency to start with a specific
-pattern for spacing or variables names and then allow this pattern to
-slowly evolve through his code so that by the end no single pattern could
-be detected.
-
-But these were just details, simple grammatical mistakes whose correction
-would do nothing to repair the more fundamental problem. He could also tell
-that Carolyn felt frustrated as well. For all her advice, she could not
-convey to him an understanding of how to create what she wanted him to
-create which was beauty. Sometimes she would just resort to showing him a
-sample of her code next to his. It was a contrast that Allan felt even
-someone who had never written a line of code in their life could easily
-see.
-
-In the end she usually just sighed patted him on the back reassuringly and
-said, that he would be fine and that it would just take time. And then she
-just stopped reviewing his code. Since his code worked, how could it
-possibly matter? But it did matter, to him. He felt there must be some
-cosmic consequence for his little pieces of ugly code sitting in the giant
-patchwork that collectively made up the portion of the program his section
-worked on. If beauty could exist, he thought, than it could only exist for
-a reason.
-
-That evening after having a beer with the crew, Allan sat on the couch in
-the apartment he shared with his brother. His brother, Maynard sat next to
-him reading a comic book, one of the antiquities that Allan collected.
-Maynard was a few years older than Allan and slow, or at least slower than
-Allan. He was a rarity that had escaped genetic screening. 
-
-"Did you talk to Kenny today?" Allan asked. Maynard kept reading. "Maynard"
-Allan said, "Did you talk to him?" "No. He was busy." Maynard said without
-turning. Maynard worked for Kenny in a small store that sold antiquities.
-It was hard to find jobs that did not require technical skills which was
-one of the excuses for genetic screening. But the desire for human
-interaction survived in little pockets here and there and Kenny's store was
-one of them.
-
-Allan sat eye level with the record and watched as the needle slowly rode
-up and down over the subtle warps. It was only one of five records he owned
-and he played them so much he could have distinguished each one from its
-imperfections. The phonograph, amplifier, speakers and five records, had
-cost him one months pay, but he had no regrets about the purchase.
-
-The room was filled with antique technology, most of which he had bought in
-Kenny's store. Along with some audio equipment there was an oscilloscope, a
-wave form generator, a stop light and television set and lots of other
-small items, many of which Allan had yet to determine their original
-function.
-
-"Are you going to ask him?" Allan asked his brother. "Sure." Maynard said
-still reading. Allan had wanted Maynard to ask Kenny for a raise. Allan had
-become from friends with Kenny over the years, but still felt that he was
-taking advantage of Maynard. Plus it was not like they were living in
-luxury.
-
-He had even invited Carolyn over once to visit, but she said all the right
-things, that is so cool wow, but never really got it. Things now worked
-better. It was more than just cool to him. Why would you list. But he felt
-that maybe Carolyn just did not feel comfortable around his brother. What
-was the point of music with all the imperfections, but the imperfections
-were all that mattered to Allan, though he did not tell this to Carolyn.
-
-Jeb, his brother liked music. Allan had studied art in school but was not
-considered talented enough to progress. He had done fairly well on the
-programming exam and needed to consider his brother so had gone to code
-school.
-
-For the past year, he had worked on physical representations of the code he
-wrote at work. Initially, he just wanted to replicate a single program
-using older electronics. It would be a physical representation of the code.
-At first this was just an artistic endeavor. The digital logic gates were
-still available, but then something felt wrong about the project. He wanted
-it to be better. He wanted it to be more perfect. In the way that his
-record was more perfect than the digital version though only by being more
-imperfect.
-
-The digital world was simple. Everything was either true or false, right or
-wrong. A crude mirror of the real world, but one that could be refined
-enough to make the reflection almost real. Imagine and image that is purely
-black and white, no scales of grey. Any point on the image.  Imagine a
-curve. He drew one. Imagine, I use ten steps to approximate that curve. Now
-more and more. At some point the eye cannot see the steps. But only because
-the eye does not want to see the steps. We are machines that desperately
-want to see curves. Think of an image.
-
-
-
-
-k
  
 
