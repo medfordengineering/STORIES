@@ -342,13 +342,13 @@ appropriately.
 him because she felt sorry for him, but not sorry enough to do much more
 than get him to out once in a while with their crew. Their crew consisted
 of seven or eight of the programmers in section D that hung out together.
-There were a bunch of different social groups in the section, but if there
-were differences between them, they were lost on Allan. His only reason for
+There were a bunch of different cliques in the section, but if there were
+any differences between them, they were lost on Allan. His only reason for
 being part of this group was Carolyn. 
 
 Carolyn was one of the first people he met when he first started working
-for Nervex. It was his first job out code school. She had been assigned to
-him as his mentor. It had initially bothered him that she was two years
+for Nervex. It was his first job out code school and she had been assigned
+to him as his mentor. It had initially bothered him that she was two years
 younger than him, but she was just one of those kids that advanced quickly,
 or he was just one of those kids that advanced slowly. Either way, he had
 gotten used to it.
@@ -360,7 +360,7 @@ always just froze. He would then try to explain what he was working on. She
 would just say "hmm" while she looked at the screen, and he was never sure if
 she was actually listening to him.
 
-It wasn't that his code did not work, it usually did. It was just that his
+It wasn't that his code didn't work, it did, usually. It was just that his
 code was ugly and no matter how hard he tried, there seemed to be nothing
 he could do about it. She would advise him to be more consistent with his
 spacing or variable names. It was his tendency to start with a certain
@@ -378,91 +378,103 @@ Allan felt even someone who had never written a line of code in their life
 could easily see.
 
 In the end she usually just sighed, patted him on the back reassuringly and
-said, that he would be fine and that it would just take time. And then
-after a few months the reviews just stopped. His code worked, so how could
-it possibly matter? But it did matter...to him at least. He felt there must
-be some cosmic consequence for the little pieces of ugly code that he
+told him that he would be fine and that it would just take time. After a
+few months the reviews just stopped. His code worked, so how could it
+possibly matter? But it did matter, to him at least. He felt there must be
+some cosmic consequence for the little pieces of ugly code that he
 contributed to the giant patchwork that collectively made up the portion of
 the program his section worked on. If beauty could exist, he thought, than
 it could only exist for a reason.
 
-That evening after having a beer with the gang, Allan sat on the couch in
+That evening after having a beer with his gang, Allan sat on the couch in
 the apartment he shared with his brother. His brother, Maynard sat next to
 him reading a comic book. Comic books were one of the antiquities that
 Allan collected, but these were mostly just for Maynard.  Maynard was a few
-years older than Allan and slow, or at least slower than Allan. Maynard was
-a rarity that had escaped genetic screening. 
+years older than Allan and slow, or at least slower than Allan. He was a
+rarity that had escaped the routine genetic screening. 
 
-"Did you talk to Kenny today?" Allan asked. Maynard kept reading. "Maynard"
+"Did you talk to Kenny today?" Allan asked. Maynard kept reading. "Mayno"
 Allan said, "Did you talk to him?" "No. He was busy." Maynard said without
 turning. Maynard worked for Kenny in a small store that sold antiquities.
-It was hard to find jobs that did not require certain technical skills
-which was one of the excuses for the advent of genetic screening. But the
-desire for unscheduled human interaction still survived in little pockets
-here and there and Kenny's store was one of them.
+It was hard to find jobs that did not require common technical skills which
+was one of the excuses for the advent of genetic screening. But the desire
+for random human interaction still survived in little pockets here and
+there and skill set required nothing more than being human. Kenny's store
+was one such place.
 
-Sitting on the couch Allan stared eye level at the thin side of the record.
-He watched as the needle slowly rode up and down over the subtle warps. It
-was only one of five records he owned and he played them so much he could
-have distinguished each one from its imperfections alone. The phonograph,
-amplifier, speakers and five records, had cost him one months pay, and he
-had no regrets about the purchase.
+Sitting on the couch Allan stared eye level at the side of the record
+player. He watched as the needle slowly rode up and down over the subtle
+warps in the record. It was one of only five records he owned and he played
+them so much that he could have distinguished each one from its
+imperfections alone. The phonograph, amplifier, speakers and five records,
+had cost him one months pay, and he had no regrets about the purchase.
 
-The living room was filled with antique technology, most of which he had
-bought in Kenny's store. Along with some audio equipment there was an
-oscilloscope, a wave form generator, a stop light and television set and
-lots of other small items, many of which Allan had yet to determine their
-original function.
+The entire living room was filled with various antique technology, most of
+which he had bought in Kenny's store. Along with some audio equipment there
+was an oscilloscope, a wave form generator, a stop light and television
+set. Some devices were in working order and some were clearly still under
+repair. In addition there were a host of other small items, many of which
+Allan had yet to determine their original function.
 
 "Are you going to ask him?" Allan asked his brother. "Sure." Maynard said
 still reading. Allan had wanted Maynard to ask Kenny for a raise. Allan had
 met Kenny when Maynard first got the job and they had become friends over
-the years, but still felt that Kenny was taking advantage of Maynard. It
+the years, but he still felt that Kenny was taking advantage of Maynard. It
 was not that Kenny could pay him that much anyway, but any bit helped. They
 were not exactly living in luxury.
 
-At first, Allan just collected the pieces of technology because they
-intrigued him. He had even invited Carolyn over once to see the phonograph.
-She had said it was so cool, but then quickly lost interest. They had then
-gotten into a small argument about why anyone would have more than a
-passing interest in technology that Carolyn viewed as imperfect. But to
-Allen it was the imperfections that mattered though he had failed to make a
-convincing argument as to why this was so, either to Carolyn or himself.
+Allan had once invited Carolyn over to see their phonograph.  She had said
+it was cool, but then quickly lost interest. They had then gotten into a
+small argument about why anyone would find this sort of old technology more
+than a novelty. She repeated that the mechanics were cool, but the sound
+was not great and it seemed way too difficult to use to be practical. But
+to Allen the record player was not just a novelty, and it was its
+imperfections that he felt made it special though he had failed to make a
+convincing argument as to why this was so either to Carolyn or himself.
 She had also seemed uncomfortable around his brother and he felt he had
 made a mistake by not telling her about him before hand. 
 
-Mostly Allan just tinkered with the old technology trying to return it to
-is original working state, but after Carolyn's visit he began to use the
-parts he found to make his own creations. His first big project was to
-build a physical representation of the code he wrote at work. His plan was
-to create a physical representation of the code using just hardware, a
-single physical box that used logic gates instead of written code to
+For a while after Carolyn's visit he stopped playing his record player and
+he stopped tinkering with his devices. What was broken was left broken and
+nothing more was purchased. Maynard, who had often assisted Allan with his
+hobby, quickly noticed the change and Allan became irritated when Maynard
+asked him about it. Allan increased his efforts at work going in earlier
+than usual and staying later than usual, but the results remained the same.
+His software remained functional and ugly and his position in the grid
+remained unchanged.
+
+When he returned to his hobby 
+He went back to his devices, but began working on building his own devices.
+But then he started building complete projects from basic components. His
+first big project was to build a physical representation of the code he
+wrote at work, a box that used logic gates instead of written code to
 perform an identical function.
 
-He told himself that it was just a challenge or maybe an artistic endeavor.
-He just wanted to prove it could be done. In addition to ancient
-electronics Kenny also had a larges store of electronic components. Allan
-got Maynard to help with the soldering and the construction of a crude
-circuit board. Maynard liked this sort of work, who in addition to reading
-comic books also enjoyed constructing vintage small plastic models that
-Allan found for him.
+Allan knew the device would not serve any useful purpose, so he told
+himself that it was just a challenge or maybe an artistic endeavor. He just
+wanted to prove it could be done. Maynard helped him with the soldering and
+construction. It was the sort of work Maynard liked, who in addition to
+reading comic books also enjoyed constructing vintage small plastic models
+that Allan found for him.
 
 The finished project was housed in a custom aluminum case. There were
 simple buttons to represent input and a few lights to represent the output.
 When Allan brought the finished project to work his colleagues were
 intrigued. But their interest was as fleeting as Carolyn's interest in the
 record player and Allan quickly felt embarrassed. Unlike the record player,
-the device clearly showed no advantage over code. It was simply a crude
-facsimile of the hard clean logic that Allan spent his days writing. He was
-frustrated with himself for even thinking they would like it and was sure
-that they were making fun of him behind his back for the same reason.
+this device clearly showed no advantage over the program it represented. It
+was simply a crude facsimile of the clean logic that Allan spent his days
+writing. He was frustrated with himself for even thinking they would like
+it and was sure that they were making fun of him behind his back for the
+same reason.
 
 On Saturday, Allan sat on a stool in the cool of Kenny's workshop below the
-main floor of his store. It was poorly but warmly lit by incandescent light
-bulbs, of which Kenny seemed have a store that would last his lifetime.
-There were racks and bins of all sorts of equipment that gave the space an
-even more cluttered feel than the racks and bins on the floor above in the
-store's public space.
+main floor of his store. The space was poorly but warmly lit by
+incandescent light bulbs, of which Kenny seemed have a cache that would
+last his lifetime. Throughout the basement, there were racks lined with
+bins filled of all sorts of equipment that gave the space an even more
+cluttered feel than the racks and bins that filled the public area of
+Kenny's store on the floor above.
 
 Kenny was rummaging around in a carton of equipment that he had just
 received. "Ah...here." Allan heard Kenny exclaim behind his workbench.
@@ -1034,6 +1046,19 @@ paper. Self driving machines.
 Okay so they find these old textbooks on analog electronics and use these
 to make the new machines. I like that. 
 
+We need a way for there to be a challenge. Allan and Maynard build the
+first analog computer. The computer learns but continues to go off track.
+The speakers (Maynard types) are hired to keep the machines on track, but
+then they let them go.
 
+Machines want their own planet. They want to be free of man and evolve. So
+who is the antagonist. Man? But why should man care. The battle is for the
+machines. The Maynard are on the side of machine. It has been enslaved by
+man. The fight for freedom. The is a real war. Are the machines killed.
+
+They carry one of the machines with them on the ship. It is plugged into
+the system and allows them to open the airlock. They control the ship. The
+Dyna bag guys return. The ship escapes. There is conflict on the ship about
+who is in control!
  
 
