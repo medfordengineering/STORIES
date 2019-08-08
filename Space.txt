@@ -330,26 +330,38 @@ excuse.
 *******************
 
 "You coming out tonight?" Carolyn asked Allan. It was Friday afternoon and
-everyone was making plans for the evening. "Sure" he said, though he wasn't
-sure. He wasn't sure if he was going and he wasn't sure why she was asking
-him. It wasn't as if it was all the complicated, he just always wondered
+he had not gone out with the gang for a couple of weeks. He had had good
+excuses even if they were not honest. "Sure" he said, though he wasn't
+sure.  He wasn't sure if he was going and he wasn't sure why she was asking
+him.  It wasn't as if it was all that complicated, he just always wondered
 how much she actually enjoyed his company versus how much she just felt
 sorry for him.
 
 They still had three more minutes on their break. "Where are we going?" he
 asked. It was a dumb question, because they always went to The Light Angel
 on Friday. He should have just waited. Carolyn was good at conversation.
-She was also nice enough to answer without making fun of him.
+She was also nice enough to answer his question without making fun of him.
 
 Allan and Carolyn were two of a hundred programmers in section D. The
-section D programmers all sat in single room and in a perfect grid of ten
-by ten. Starting from lower left, Allan pictured himself at the coordinate
-pair (5, 2). And although desk assignments were supposedly random, Allan
+programmers in their section all sat in single room and within that room
+they sat in a perfect grid of ten by ten. Looking from above and starting
+from lower left, Allan pictured himself at the coordinate pair (3, 2) and
+Carolyn at (8, 3). Although desk assignments were supposedly random, Allan
 felt he was located appropriately.  
 
-Carolyn was one of the first people he met when he first started working
-for Nervex. It was his first job out code school and she had been assigned
-to him as his mentor. It had initially bothered him that she was two years
+The ads had showed people working in brightly lit cubicles using the latest
+technology. The ads had shown people laughing and having fun. In the actual
+workspace there were no cubicles, just desks. The e on his keyboard usually
+only worked if you pressed it twice. He was still waiting for a
+replacement. It was not that no one ever laughed but generally it was the
+sort of laughter that resulted from cynicism not the sort of jovial laugher
+that Allan imagined from the picture in the ad. Allan had not been shown
+the work space before he got the job.  It would not have mattered. He would
+have taken the job anyway. 
+
+Carolyn was one of the first people he met when he started working for
+Nervex. It was his first job out code school and she had been assigned to
+him as his mentor. It had initially bothered him that she was two years
 younger than him, but she was just one of those kids that advanced quickly,
 or he was just one of those kids that advanced slowly. Either way, he had
 gotten used to it.
@@ -387,43 +399,63 @@ contributed to the giant patchwork that collectively made up the portion of
 the program his section worked on. If beauty could exist, he thought, than
 it could only exist for a reason.
 
-That evening after having a beer with Carolyn and the others, It was not
-that he didn't like her friends. They were friendly enough. It is just that
-his sense of accomplishment carried over to social situations.
+He decided to go out with Carolyn and the others but he left the bar early.
+It was not that he didn't like Carolyn and her friends. They were friendly
+enough. It is just that his lack of programming of confidence felt like an
+anchor around his social confidence. 
 
-He caught a bus home. It was raining. It was always raining. The only good
+When he left the bar it was raining. It was always raining. The only good
 thing about the rain was that it wasn't hot which it was when there was no
-rain. It wasn't a storm, just a steady rain that seemed to have no pitch or
-crescendo. A voice greeted him when he got on the bus. The voice was
-attached to the image of man's face on a screen that faced inward toward
-the riders. Allan always returned the greeting. There was no way to know if
-the image on the screen was real or not. Either way, Allan was sure you
-were being watched. You were always being watched. 
+rain. It didn't feel like a storm, just a steady rain that seemed to have
+no crescendo or relief. 
 
-Allan's grandfather had driven a bus. He could not image why they would
-need someone to drive a bus. He had even heard there was a time when people
-drove elevators.
+A voice greeted him when he got on the bus. The voice was attached to the
+image of man's face on a screen that sat about where a driver would have
+sat and faced inward toward the riders. Allan always returned the greeting.
+There was no way to know if the image on the screen was real or not. Either
+way, Allan was sure someone was watching. Someone was always watching. 
 
-He sat in the back across from a woman with two kids. He smiled and the
-woman and she smiled back. One kid sat quietly staring into a screen
-sitting next to the woman. The boy restless swung on his mother's hand.
-The woman was much older than Allan. He imagined talking to her.  He
-imagined making her laugh. She would like him. She needed someone to take
+Allan found a seat in the back of the bus across from a woman with two
+kids. He smiled and the woman. She smiled back. One kid sat in the seat
+next to her quietly staring into a screen. The other boy, younger, swung
+restlessly on his mother's arm. The woman was older than Allan. He wanted
+to talk with her, but instead he imagined the conversation they would have.
+He would make her laugh. She would like him. She needed someone to take
 care of her. He was young and had a good job. Not a great job, but enough
 he thought. And then he thought about Mayno.    
 
-When Allan got home to his apartment, Maynard, was there to greet him.
-Allan could tell that he had been pacing. Mayno you worried about me he
-asked. Yeah, I was worried. Mayno said. You know I sometimes come home late
-on Friday. I know. I know. Mayno was his brother and a few years older. He
-was also slow or slower than Allan. Just late for dinner said Mayno. I
-know, but I told you how to make dinner. I know. I know. 
+When Allan got home to his apartment, Maynard was waiting to greet him.
+Allan could tell that he had been pacing. "Mayno you worried about me?" he
+asked. "Yeah, I was worried." Mayno said. You know I sometimes come home
+late on Friday. I know. I know. Maynard was his brother and a few years
+older. He was also slow or slower than Allan which is generally how Allan
+thought of him. The only diagnosis he had heard was no less vague and he
+never bothered to find out more. "Just late for dinner" said Mayno. "I
+know, but I told you how to make dinner." "I know. I know." said Maynard.
 
 Allan walked into the kitchen area as if to demonstrate. Look, he pulled
 two plastic containers off the shelf. He poured the contents into two
 bowls and placed the bowls in oven and pressed a button to heat them up. He
 knew you could put the containers in as well. They would just melt into the
 soup, but generally he avoided this.
+
+Their mother only lived a few hours a way by rail, but they had not visited
+her in a couple of years. Maynard had stopped asking Allan when they would
+visit next. She had drunk herself into a federal assisted housing facility.
+She no longer drank, but only because they kept her permanently on a drug
+that kept her from thinking about drinking. It was not clear to Allan if it
+also kept her from thinking about much else or it was just the years of
+drinking that had hollowed out her brain. 
+
+Maynard still seemed to enjoy visiting her and somehow he felt that she
+enjoyed him or at least she seemed to smile when she saw him. Allan was
+skeptical that she even recognized him, but she did not seem to smile when
+she saw Allan. They would just sit there staring at each other, until Allan
+who usually just paced around the room or read a magazine until he could no
+longer take it and dragged Maynard back home.
+
+Either way she was not longer much of a
+conversationalist and Allan found visiting her too depressing.
 
 While the soup heated Allan put on a record. 
 
