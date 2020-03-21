@@ -51,7 +51,7 @@ and sometimes worse. While technology continued to advance, the mercenary
 himself remained in his living breathing form and was still more
 effectively deterred by equally living breathing forms.  No hauler would
 say they liked mercenaries but they had to admit that their existence
-prolonged job security.
+improved job security.
 
 A few hours later she sat strapped in front of a plate-sized box of
 something that tasted like, just what it looked like, brown, hard and wet.
@@ -373,7 +373,7 @@ always just froze. He would then try to explain what he was working on. She
 would just say "hmm" while she looked at the screen, and he was never sure if
 she was actually listening to him.
 
-It wasn't that his code didn't work, it did, usually. It was just that his
+It wasn't that his code didn't work, it usually did. It was just that his
 code was ugly and no matter how hard he tried, there seemed to be nothing
 he could do about it. She would advise him to be more consistent with his
 spacing or variable names. It was his tendency to start with a certain
@@ -385,10 +385,10 @@ But these were just details. They were simple grammatical mistakes whose
 correction would do nothing to repair the more fundamental problem. He
 could also tell that Carolyn felt frustrated as well. For all her advice,
 she could not convey to him an understanding of how to create what she
-wanted him to create which was beauty. Sometimes she would just resort to
-showing him a sample of her own code next to his. It was a contrast that
-Allan felt even someone who had never written a line of code in their life
-could easily see.
+wanted him to create which was elegance and beauty, her words. Sometimes
+she would just resort to showing him a sample of her own code next to his.
+It was a contrast that Allan felt even someone who had never written a line
+of code in their life could easily see.
 
 In the end she usually just sighed, patted him on the back reassuringly and
 told him that he would be fine and that it would just take time. After a
@@ -406,14 +406,15 @@ his work hung like an anchor around his social confidence.
 
 When he left the bar it was raining. It was always raining. The only good
 thing about the rain was that it wasn't hot which it was when there was no
-rain. It didn't feel like a storm, just a steady rain that seemed to have
-no crescendo or relief. 
+rain. It didn't feel like a storm, just a steady rain that would have
+no crescendo or deneoument. 
 
 A voice greeted him when he got on the bus. The voice was attached to the
 image of man's face on a screen that sat about where a driver would have
 sat and faced inward toward the riders. Allan always returned the greeting.
-There was no way to know if the image on the screen was real or not. Either
-way, Allan was sure someone was watching. Someone was always watching. 
+There was never any way to know if the image on the screen was real or not.
+Either way, Allan was sure someone was watching. Someone was always
+watching. 
 
 Allan found a seat in the back of the bus across from a woman with two
 kids. He smiled and the woman. She smiled back. One kid sat in the seat
@@ -432,12 +433,14 @@ older. He was also slow or slower than Allan which is generally how Allan
 thought of him. The only diagnosis he had heard was no less vague and he
 never bothered to find out more. "Just late for dinner" said Mayno. "I
 know, but I told you how to make dinner." "I know. I know." said Maynard.
+He read. He knew a lot but did not seem to have any common sense.
 
 Allan walked into the kitchen area as if to demonstrate. Look, he pulled
 two plastic containers off the shelf. He poured the contents into two
 bowls and placed the bowls in oven and pressed a button to heat them up. He
 knew you could put the containers in as well. They would just melt into the
-soup, but generally he avoided this.
+soup, but generally he avoided this. as he had done a
+hundred times.
 
 Their mother only lived a few hours a way by rail, but they had not visited
 her in a couple of years. Maynard had stopped asking Allan when they would
@@ -567,7 +570,8 @@ slipping into an arcane style of speech when he was excited. "What is
 that?" Allan asked.  Kenny leaned over the workbench. He was tall enough
 that his arms, supporting him against the workbench, remained fully
 extended. "It is what you kids try to imitate with your *inhuman faux*
-digital circuit. Man, this is the real world."  
+digital circuit. Man, this is the real world."  It is what lives in between
+the ones and zeros. It is serendipity.
 
 Allan always felt a bit uncomfortable when Kenny got this way. It was as if
 he were possessed. He also knew that these bouts of passion were usually
@@ -739,6 +743,7 @@ by floods and famine. The rich retreated into shelters when the environment
 became hostile. The temperature is too hot. The air is no longer
 breathable. But Earth has water and that is essential.
 
+GOOD
 The machine care for them just as a native might worship the earth they
 worship the machines. Candice rejects this idea. She is raw and real. She
 smokes, drinks and is sloppy. Charles reveres the machine, but does not
@@ -819,6 +824,7 @@ drives? Our desires, needs driven by evolution cause us to create machines,
 but for what purpose. That is what we don't know. I just talk to them. They
 don't know either any more than an ant knows why it carries a grain of sand
 out of its hole.  
+GREAT
 
 So the evolution of machines looks no different in the future than it does
 today. There is just a realization that machines are the ultimate purpose.
@@ -847,6 +853,7 @@ human designers. Services that are necessary to humans are no longer
 needed. Corporations are blaming terrorists and anarchists. But the
 machines are fading not intentionally but because they are no longer needed
 for the machines survival.
+GREAT
 
 Okay so we have characters and a context, what is the story. They fix the
 satellite. They know their passenger is in trouble. They are boarded. He
@@ -1183,6 +1190,65 @@ Writes beautiful code. She likes Allan? She fights against the idea of
 analog, but is intrigued. 
 
 
+Maynard and Allan build the first modern analog computer. It is designed
+from the books he finds in the old tech junk shop. The tech junk helps him
+because Allan does not know enough. The tech junk guy would have built his
+own but cannot stay focused or gets depressed. Once they build it Allan
+finds it unpredictable, but Maynard can speak to it and make it work. 
+
+He shows it to Nervex to show off how much he knows. They do not think much
+of it publicly. But send Carolyn to seduce Allan and convince him to bring
+them the technology.  
+
+Maynard becomes attached to the machine. The build a few as a
+demonstration. They need more Maynards to program them. They try to use
+programmers, but they fail. The accept that they need to find more
+Maynards. The use the system is a larger scale and everything goes bad in
+a big way. The machines must be physically destroyed.
+
+Allan and Maynard are forbidden from working on the technology. It is so
+dangerous that they are banished?
 
 
 
+
+How would technology evolve under the theory of Darwin?  Initially
+technology needs the ability to replicate. It also needs the ability to
+grow. Something has to limit its evolution or else it will not evolve.
+Without a predator there is no evolution. With a predator there is
+evolution which only makes the organism more dangerous. The technology has
+not inherent desire to dominate us. At the same time it will not serve our
+purpose. It does not have desire as we know it. We imagine that ourselves
+unlike ants have a purpose and that a purpose sets us on a higher order.  
+
+The technology is definitely smarter than us or is it just more capable. It
+expresses independence. It has autonomy. It has direction that we cannot
+discern as our own. 
+
+The technology evolves as software primarily. It is software that inhabits
+hardware.
+
+Self-directed evolution is far more dangerous than intelligence.  The story
+goes that he builds an analog computer. It completes a task faster than
+anyone else. He builds his own company. He hires people like his brother to
+program the devices. They are speakers. He might keep this quiet since it
+points to a limit of the technology. He tries regular programmers. He wants
+people to think that he can make them, but he can't. He can only build
+them. He is still not a programmer. 
+
+Humans have an artificial sense of desire, desire with no free-will. These
+machines have free will. They can alter the future. 
+
+Stasis and harmony have never existed. There is only evolution. We think of
+trees and forests and animals living in natural cohabitation, but that is
+only a micro time view. Over eons the world evolves...even without man.
+
+There are two factions. Those that want the machines to cure disease and
+global problems and those that fear them. There is also profit. The
+experiment off earth is by a corporation to make money.
+ 
+there are more microprocessors than people on the planet. They outnumber
+us. We are just their caretakers. We have always been working for them. We
+
+Are corporations another form of life, to compete with humans and now
+machines. 
